@@ -1,0 +1,22 @@
+columns:
+  link-type:
+    content:
+      Banner: バナー
+      DRM:  ダイナミックリンク
+      Deep Links: リンクビルダー
+      Email:  Eメール
+      Flex Links: フレックスリンク
+      Manual/Unassigned: マニュアルまたはリンク種別不明
+      Merchandiser: マーチャンダイザー
+      Product: 商品
+      Searchbox: サーチボックス
+      Text: テキスト
+
+  non-commissionable-items:
+    content:
+      Return Exceeded:  再訪期間の超過
+      Cancel Amount >Total Order Amount:  キャンセル金額がオーダー総額より大きいです
+      Discount Amount > Total Order Amount: 割引総額がオーダー総額より大きいです
+      No Bid Level: 提携関係がありません
+      Return Exceeded:  再訪期間の超過
+      Cannot find Original Order based on OrderidLink Size column: キャンセル対象のオーダーIDがありません
