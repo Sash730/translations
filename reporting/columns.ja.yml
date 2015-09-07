@@ -1,0 +1,477 @@
+columns:
+  categories:
+    Metrics: メトリクス
+    Advertiser: 広告主
+    Clicks: クリック
+    Commission: 報酬
+    Creative: クリエイティブ
+    Date: 期間
+    Geography: 地域情報
+    Impressions: インプレッション
+    Items: アイテム
+    "Mobile and Technology": 端末情報
+    Network: ネットワーク
+    "Non-Commissionable Sales": 報酬対象外
+    Offer: プログラム
+    Orders: オーダー
+    Product: 商品
+    Publisher: アフィリエイト
+    Sales: 販売額
+    "Transaction Details": 成果詳細
+
+
+  previous-period: "~~~~~~~"
+
+
+  #Advertiser
+
+  advertiser-name:
+    description: "ECサイト名（貴サイトのECサイト名が表示されますので選択不要です）"
+    name: "広告主名"
+
+  mid:
+    description: "ECサイトを識別するユニークな番号（管理画面にログインすると右上に表示されております　貴サイトのMIDが表示されますので選択不要です）"
+    name: "MID"
+
+
+  #Clicks
+
+  click-through-rate:
+    description: "インプレッション数に対するクリック数の割合（クリック数\/インプレッション数）"
+    name: "クリック率"
+
+  clicks-percent-change-from-prior-year:
+    description: "前年同期間のクリック数との対比"
+    name: "クリック数前年比（%）"
+
+  cost-per-action:
+    description: "アイテム報酬単価は、期間中の全報酬額\/アイテム数で求めています。"
+    name: "アイテム報酬単価"
+
+  earnings-per-click:
+    description: "クリックあたりの報酬額（報酬額\/クリック数）　100を掛けた数値で表示されます"
+    name: "クリックあたりの報酬額"
+
+  number-of-clicks-prior-year:
+    description: "前年同期間のクリック数"
+    name: "前年のクリック数"
+
+  number-of-clicks:
+    description: "リンクがクリックされた回数　リンクIDやSIDのカラムを追加するとリンクIDごとやSIDごとのクリック数を確認することができます。"
+    name: "クリック数"
+
+  raw-number-of-clicks:
+    description: "リンクがクリックされた回数　リンクIDやSIDのカラムを追加するとリンクIDごとやSIDごとのクリック数を確認することができます。"
+    name: "クリック数"
+
+
+  #Commission
+
+  adjusted-commission:
+    description: "段階制プログラムなどで報酬額に調整が入る場合の調整金額"
+    name: "報酬額(調整額)"
+
+  baseline-commission-total:
+    description: "段階制プログラムなどで報酬額に調整が入る場合、調整前の金額（調整がないプログラムは調整前と調整後は同じ値が入ります）"
+    name: "報酬額(調整前)"
+  
+  commissions-percent-change:
+    description: "前年同期間の報酬額との対比"
+    name: "報酬額前年比(%)"
+    
+  event-estimated-commissions:
+    description: "~~~~~~~"
+    name: "報酬額（速報値）"
+    
+  gross-commissions-prior-year:
+    description: "前年のキャンセル分を計算する前の報酬額（CPCプログラムの報酬は含まれません）。マイナスの報酬額は含まれません。"
+    name: "前年の報酬額（キャンセル前）"
+    
+  gross-commissions:
+    description: "キャンセル分を計算する前の報酬額（CPCプログラムの報酬は含まれません）。マイナスの報酬額は含まれません。"
+    name: "報酬額（キャンセル前）"
+    
+  gross-total-commissions-prior-year:
+    description: "前年のキャンセル分を計算する前の報酬額（CPCプログラムの報酬を含みます）。マイナスの報酬額は含まれません。"
+    name: "前年の総報酬額（キャンセル前）"
+  
+  gross-total-commissions:
+    description: "キャンセル分を計算する前の報酬額（CPCプログラムの報酬を含みます）。マイナスの報酬額は含まれません。"
+    name: "総報酬額（キャンセル前）"
+  
+  total-commission-prior-year:
+    description: "前年同期間の報酬額"
+    name: "前年の報酬額"
+
+  total-commission:
+    description: "段階制プログラムなどで報酬額に調整が入る場合、調整後の金額（調整がないプログラムは調整前と調整後は同じ値が入ります）　報酬額を抽出したい場合、通常はこちらを使用します"
+    name: "報酬額(調整後)"
+
+
+  #Creative
+
+  link-id:
+    description: "リンクごとに設定されているユニークな番号"
+    name: "リンクID"
+
+  link-name:
+    description: "管理画面でそれぞれのリンクに設定した名前"
+    name: "リンク名"
+
+  creative-size:
+    description: "管理画面でそれぞれのリンクに設定したサイズ（テキストリンクには表示されません）"
+    name: "サイズ"
+
+  link-type:
+    description: "バナー、テキストなどリンクの種類"
+    name: "リンク種類"
+
+
+  #Date
+
+  match-date:
+    description: "U1が付与された日付"
+    name: "U1付与日"
+
+  match-time:
+    description: "U1が付与された時刻（日付はなし）"
+    name: "U1付与時刻"
+
+  process-date:
+    description: "広告主様がリンクシェアに成果データが送信した日付（GMT）"
+    name: "データ送信日"
+
+  process-day-of-week:
+    description: "広告主様がリンクシェアに成果データが送信した日の曜日（GMT）"
+    name: "データ送信日（曜日）"
+
+  process-month:
+    description: "広告主様がリンクシェアに成果データが送信した日の月（GMT）"
+    name: "データ送信日（月）"
+
+  process-time:
+    description: "広告主様がリンクシェアへ成果データを送信した時刻"
+    name: "成果データ処理時刻"
+
+  process-week-begin-date:
+    description: "週別にレポートを出す場合、その週の初めの日付を項目として表示できます"
+    name: "データ送信日（週）始めの日曜日"
+
+  process-week-end-date:
+    description: "週別にレポートを出す場合、その週の最後の日付を項目として表示できます"
+    name: "データ送信日（週）最後の土曜日"
+
+  process-year:
+    description: "広告主様がリンクシェアに成果データが送信した日の年（GMT）"
+    name: "データ送信日（年）"
+
+  transaction-created-on-date:
+    description: "リンクがクリックされた日付"
+    name: "クリック日"
+
+  transaction-created-on-time:
+    description: "リンクがクリックされた時刻（日付はなし）"
+    name: "クリック時刻"
+
+  transaction-date:
+    description: "エンドユーザーが成果対象行為（購買）を行った日付（GMT）"
+    name: "購買日"
+
+  transaction-day-of-week:
+    description: "エンドユーザーが成果対象行為（購買）を行った日の曜日（GMT）"
+    name: "購買日（曜日）"
+
+  transaction-month:
+    description: "エンドユーザーが成果対象行為（購買）を行った日の月（GMT）"
+    name: "購買日（月）"
+
+  transaction-time:
+    description: "エンドユーザーが成果対象行為（購買）を行った時刻（GMT）"
+    name: "購買時刻"
+
+  transaction-week-begin-date:
+    description: "週別にレポートを出す場合、その週の初めの日付を項目として表示できます"
+    name: "購買日（週）始めの日曜日"
+
+  transaction-week-end-date:
+    description: "週別にレポートを出す場合、その週の最後の日付を項目として表示できます"
+    name: "購買日（週）最後の土曜日"
+
+  transaction-year:
+    description: "エンドユーザーが成果対象行為（購買）を行った日の年（GMT）"
+    name: "購買日（年）"
+
+
+  #Geography
+
+  consumer-city:
+    description: "エンドユーザーがアクセスしたIPアドレスの市町村名"
+    name: "市区町村"
+
+  consumer-country:
+    description: "エンドユーザーがアクセスしたIPアドレスの国名"
+    name: "国"
+
+  consumer-region:
+    description: "エンドユーザーがアクセスしたIPアドレスの都道府県名"
+    name: "都道府県"
+
+
+  #Impressions
+
+  number-of-impressions:
+    description: "リンクが表示された回数"
+    name: "インプレッション数"
+
+
+  #Items
+
+  average-item-value:
+    description: "アイテムあたりの販売単価（販売額\/アイテム数）"
+    name: "平均アイテム単価"
+
+  net-items-per-order:
+    description: "1オーダーあたりのアイテム総数（アイテム総数\/オーダー数）"
+    name: "オーダーあたりのアイテム総数"
+
+  number-of-canceled-items:
+    description: "キャンセルデータのアイテム数　例）成果データ：１０アイテム、キャンセルデータ：５アイテムの場合は「５」と表示されます"
+    name: "キャンセルアイテム数"
+
+  number-of-items-percent-change-from-prior-year:
+    description: "前年同期間のアイテム数との対比"
+    name: "アイテム数前年比(%)"
+
+  number-of-items-prior-year:
+    description: "前年同期間のアイテム数"
+    name: "前年のアイテム数"
+
+  number-of-items:
+    description: "「成果データのアイテム数」と「キャンセルデータのアイテム数」の合計　例）成果データ：１０アイテム、キャンセルデータ：５アイテムの場合は「１５」と表示されます"
+    name: "アイテム数"
+
+  event-number-of-items:
+    description: "「成果データのアイテム数」と「キャンセルデータのアイテム数」の合計　例）成果データ：１０アイテム、キャンセルデータ：５アイテムの場合は「１５」と表示されます"
+    name: "アイテム数"
+
+  number-of-net-items:
+    description: "成果データのアイテム数　例）成果データ：１０アイテム、キャンセルデータ：５アイテムの場合、「１０」と表示されます"
+    name: "アイテム総数"
+
+
+  #Mobile and Technology
+
+  browser-major-version:
+    description: "例）Safari 5.0.2　の場合、メジャーバージョンは「5」"
+    name: "ブラウザメジャーバージョン"
+
+  browser-name:
+    description: "例）Safari 5.0.2　の場合、「Safari」"
+    name: "ブラウザ名"
+
+  browser-version:
+    description: "例）Safari 5.0.2　の場合、「5.0.2」"
+    name: "ブラウザバージョン"
+
+  browser:
+    description: "ブラウザ名（バージョンも含む）　ex.Safari 5.0.2"
+    name: "ブラウザ"
+
+  consumer-connection-speed:
+    description: "エンドユーザーの接続環境　例）Broadband、Cable、Mobile、DSL、Dialup"
+    name: "接続タイプ"
+
+  device:
+    description: "端末の種別　例）PC、Media Player、Mobile Phone、Game Console、Tablet"
+    name: "種別"
+
+  mobile-operating-system:
+    description: "アフィリエイトリンクをクリックした端末のOS。例: iOS、Android等"
+    name: "モバイルOS"
+
+
+  #Network
+
+  currency:
+    description: "通貨　日本円の場合「Japan Yen(JPY)」が入ります"
+    name: "通貨"
+
+  network-id:
+    description: "日本は固定で「11」が入ります"
+    name: "ネットワークID"
+
+  network:
+    description: "日本は固定で「Japanese Network」が入ります"
+    name: "ネットワーク"
+
+
+  #Non-Commissionable Sales
+
+  non-commissionable-items:
+    description: "報酬対象外のアイテム数"
+    name: "報酬対象外 アイテム数"
+
+  non-commissionable-order-id:
+    description: "報酬対象外のオーダーID"
+    name: "報酬対象外 オーダーID"
+
+  non-commissionable-reason:
+    description: "報酬対象外になった理由"
+    name: "報酬対象外 理由"
+
+  non-commissionable-sales:
+    description: "報酬対象外になった販売額"
+    name: "報酬対象外 販売額"
+
+
+  #Offer
+
+  offer-group-id:
+    description: "プログラム番号（管理画面のカレンダーから確認できます）"
+    name: "プログラム番号"
+
+  offer-id:
+    description: "オファーID（SKU指定がある場合はSKUリストごとにOIDが分かれています）"
+    name: "OID"
+  offer-name:
+    description: "プログラム名"
+    name: "プログラム名"
+
+
+  #Orders
+
+  average-order-value-percent-change:
+    description: "前年同期間の平均オーダー単価との対比"
+    name: "平均オーダー単価前年比(%)"
+
+  average-order-value-prior-year:
+    description: "前年同期間の平均オーダー単価との対比"
+    name: "前年の平均オーダー単価"
+
+  average-order-value:
+    description: "オーダーあたりの平均単価（販売額\/オーダー数）"
+    name: "平均オーダー単価"
+
+  number-of-orders-percent-change-from-prior-year:
+    description: "前年同期間のオーダー数との対比"
+    name: "オーダー数前年比(%)"
+
+  number-of-orders-prior-year:
+    description: "前年同期間のオーダー数"
+    name: "前年のオーダー数"
+
+  number-of-orders:
+    description: "オーダー数"
+    name: "オーダー数"
+
+  order-id:
+    description: "広告主様のシステムでオーダーごとに振られた一意のID"
+    name: "オーダーID"
+
+  event-order-id:
+    description: "広告主様のシステムでオーダーごとに振られた一意のID"
+    name: "オーダーID"
+
+  orders-per-click-percent-change-from-prior-year:
+    description: "前年同期間の成約率との対比"
+    name: "成約率前年比(%)"
+
+  orders-per-click-prior-year:
+    description: "前年同期間の成約率"
+    name: "前年の成約率"
+
+  orders-per-click:
+    description: "クリックあたりのオーダー率（オーダー数\/クリック数）"
+    name: "成約率"
+
+
+  #Product
+
+  product-name:
+    description: "売り上げの商品名"
+    name: "商品名"
+
+  sku:
+    description: "売り上げのあった商品のSKU"
+    name: "SKU"
+
+
+  #Publisher
+
+  publisher-encrypted-id:
+    description: "アフィリエイトパートナーと一意に識別する11桁の記号・英数字です。サイトコードはアフィリエイトパートナーのリンクコード内にある「=id」パラメータの値です。"
+    name: "サイトコード"
+
+  publisher-group-id:
+    description: "アフィリエイトグループごとに自動的に付与されている一意の番号（未設定の場合は-1）"
+    name: "グループID"
+
+  publisher-group-name:
+    description: "アフィリエイトグループ名（未設定の場合はun-assigned）"
+    name: "グループ"
+
+  publisher-id:
+    description: "サイトID（アフィリエイトサイトを識別する番号)"
+    name: "SID"
+
+  publisher-name:
+    description: "アフィリエイトサイト名"
+    name: "アフィリエイト名"
+
+  publisher-url:
+    description: "登録サイトURL"
+    name: "URL"
+
+  publishers-per-group:
+    description: "グループに含まれるアフィリエイトサイト数"
+    name: "グループ内サイト数"
+
+
+  #Sales
+
+  gross-sales-prior-year:
+    description: "前年のキャンセル分を計算する前の販売額。キャンセル分の販売額は含まれませんが、値引き分の販売額は含まれます。"
+    name: "前年の販売額（キャンセル前）"
+
+  gross-sales:
+    description: "キャンセル分を計算する前の販売額。キャンセル分の販売額は含まれませんが、値引き分の販売額は含まれます。"
+    name: "販売額（キャンセル前）"
+
+  sales-percent-change-from-prior-year:
+    description: "前年同期間の販売額との対比"
+    name: "販売額前年比(%)"
+
+  sales-prior-year:
+    description: "前年同期間の販売額"
+    name: "前年の販売額"
+
+  sales:
+    description: "売り上げの販売額"
+    name: "販売額"
+
+  event-sales:
+    description: "売り上げの販売額"
+    name: "販売額"
+
+
+  #Transaction Details
+
+  member-id:
+    description: "ポイント還元サイトでエンドユーザーを識別するためのID"
+    name: "U1"
+
+  member-id-masked:
+    description: "ポイント還元サイトでエンドユーザーを識別するためのID"
+    name: "U1"
+
+  referrer-url:
+    description: "リンクシェアのリンクに遷移する前のページのURL（基本的にリンクが掲載されているページのURLです）"
+    name: "リファラURL"
+
+  transaction-click-ip-address:
+    description: "リンクシェアのリンクがクリックされた端末のIPアドレス"
+    name: "クリックIPアドレス"
+
+  transaction-id:
+    description: "それぞれのトランザクションごとに自動的につけられるユニークなID"
+    name: "トランザクションID"

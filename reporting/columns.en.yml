@@ -1,0 +1,477 @@
+columns:
+  categories:
+    Metrics: Metrics
+    Advertiser: Advertiser
+    Clicks: Clicks
+    Commission: Commission
+    Creative: Creative
+    Date: Date
+    Geography: Geography
+    Impressions: Impressions
+    Items: Items
+    "Mobile and Technology": Mobile and Technology
+    Network: Network
+    "Non-Commissionable Sales": Non-Commissionable Sales
+    Offer: Offer
+    Orders: Orders
+    Product: Product
+    Publisher: Publisher
+    Sales: Sales
+    "Transaction Details": Transaction Details
+
+
+  previous-period: "Previous Period"
+
+
+  #Advertiser
+
+  advertiser-name:
+    description: "Select this column when running a report for more than one Advertiser to see which row of data pertains to which Advertiser."
+    name: "Advertiser Name"
+
+  mid:
+    description: "The identification number associated with an Advertiser's account. Select this column when running a report for more than one Advertiser to see which row of data pertains to which MID."
+    name: "MID"
+
+
+  #Clicks
+
+  click-through-rate:
+    description: "The number of clicks divided by the number of impressions."
+    name: "Click Through Rate (CTR)"
+
+  clicks-percent-change-from-prior-year:
+    description: "The percent change in number of clicks year over year."
+    name: "# of Clicks % Change from Prior Year"
+
+  cost-per-action:
+    description: "CPA or Cost Per Action is calculated as Total Commission \/ # of Items. Please note that # of Items refers to the gross # of Items including cancellations"
+    name: "Cost Per Action (CPA)"
+
+  earnings-per-click:
+    description: "The total sales generated divided by the number of clicks. (Values are multiplied by 100 for display purposes)"
+    name: "Earnings Per Click (EPC)"
+
+  number-of-clicks-prior-year:
+    description: "The total number of clicks in the data range selected, but for the prior year."
+    name: "# of Clicks Prior Year"
+
+  number-of-clicks:
+    description: "The total number of clicks recorded in the selected date range."
+    name: "# of Clicks"
+
+  raw-number-of-clicks:
+    description: "The total number of clicks recorded in the selected date range."
+    name: "# of Clicks"
+
+
+  #Commission
+
+  adjusted-commission:
+    description: "For tiered commission structures, this is the commission that is added to the baseline commission when a Publisher reaches a certain level of sales. For example, an Advertiser will set an offer that is 3% from $0 - $100 in sales but will be 6% for any sales over $100.\u00a0 Cumulative sales are calculated on a per-month basis and the additional commission is added (the difference between 3% and 6%) in the Adjusted Commission field.\u00a0 This value is populated only at the end of the month when the Publisher Invoices are generated."
+    name: "Adjusted Commission"
+
+  baseline-commission-total:
+    description: "The commission amount that is calculated before adjustments are made at the end of the month for tiered offers."
+    name: "Baseline Commission"
+  
+  commissions-percent-change:
+    description: "The percent change in total commission year over year."
+    name: "Total Commission % Change from Prior Year"
+    
+  event-estimated-commissions:
+    description: "~~~~~~~"
+    name: "Estimated Commissions"
+    
+  gross-commissions-prior-year:
+    description: "This column gives you a total of all commissions (not including CPC commissions) without taking cancellations into account for one year prior. It is calculated by adding the the sum of all commissions with values greater than 0."
+    name: "Gross Commissions Prior Year"
+    
+  gross-commissions:
+    description: "This column gives you a total of all commissions (not including CPC commissions) without taking cancellations into account. It is calculated by adding the the sum of all commissions with values greater than 0."
+    name: "Gross Commissions"
+    
+  gross-total-commissions-prior-year:
+    description: "This column gives you a total of all commissions (including CPC commissions) without taking cancellations into account for one year prior. It is calculated by adding the the sum of all commissions with values greater than 0."
+    name: "Gross Total Commissions Prior Year"
+  
+  gross-total-commissions:
+    description: "This column gives you a total of all commissions (including CPC commissions) without taking cancellations into account. It is calculated by adding the the sum of all commissions with values greater than 0."
+    name: "Gross Total Commissions"
+  
+  total-commission-prior-year:
+    description: "The sum of baseline commission and adjusted commission for the date range selected but for the prior year."
+    name: "Total Commission Prior Year"
+
+  total-commission:
+    description: "This is the sum of baseline commission and adjusted commission."
+    name: "Total Commission"
+
+
+  #Creative
+
+  link-id:
+    description: "The unique ID number for a link. This appears in the ID column in the Links section of the dashboard."
+    name: "Link ID"
+
+  link-name:
+    description: "The name you gave to a link. "
+    name: "Link Name"
+
+  creative-size:
+    description: "The size of a banner, DRM, Flex Link, or other creative type.  This does not apply to text links."
+    name: "Link Size"
+
+  link-type:
+    description: "The creative type: Banner, Text, Flex Link, and so on."
+    name: "Link Type"
+
+
+  #Date
+
+  match-date:
+    description: "The date that Rakuten LinkShare matched the referring Signature information to a transaction."
+    name: "Signature Match Date"
+
+  match-time:
+    description: "The time that Rakuten LinkShare matched the referring Signature information to a transaction."
+    name: "Signature Match Time"
+
+  process-date:
+    description: "The date that you sent a transaction to Rakuten LinkShare."
+    name: "Process Date"
+
+  process-day-of-week:
+    description: "The day of the week that you sent a transaction to Rakuten LinkShare."
+    name: "Process Day of Week"
+
+  process-month:
+    description: "The month that you sent a transaction to Rakuten LinkShare."
+    name: "Process Month"
+
+  process-time:
+    description: "The time that you sent a transaction to Rakuten LinkShare, in GMT."
+    name: "Process Time"
+
+  process-week-begin-date:
+    description: "The date for the beginning of the week, always a Sunday, that you sent a transaction to Rakuten LinkShare."
+    name: "Process Week Begin Date"
+
+  process-week-end-date:
+    description: "The date for the end of the week, always a Saturday, that you sent a transaction to Rakuten LinkShare."
+    name: "Process Week End Date"
+
+  process-year:
+    description: "The year that you sent a transaction to Rakuten LinkShare."
+    name: "Process Year"
+
+  transaction-created-on-date:
+    description: "The date that you reported a transaction to Rakuten LinkShare."
+    name: "Transaction Created On Date"
+
+  transaction-created-on-time:
+    description: "The time that you reported a transaction to Rakuten LinkShare."
+    name: "Transaction Created On Time"
+
+  transaction-date:
+    description: "The date that a consumer completed a transaction."
+    name: "Transaction Date"
+
+  transaction-day-of-week:
+    description: "The day of the week a consumer completed a transaction."
+    name: "Transaction Day of Week"
+
+  transaction-month:
+    description: "The month that a consumer completed a transaction."
+    name: "Transaction Month"
+
+  transaction-time:
+    description: "The time of day that a consumer completed a transaction in GMT."
+    name: "Transaction Time"
+
+  transaction-week-begin-date:
+    description: "The date of the beginning of the week, always a Sunday, that a consumer completed a transaction."
+    name: "Transaction Week Begin Date"
+
+  transaction-week-end-date:
+    description: "The date of the end of the week, always a Saturday, that a consumer completed a transaction."
+    name: "Transaction Week End Date"
+
+  transaction-year:
+    description: "The year that a consumer completed a transaction."
+    name: "Transaction Year"
+
+
+  #Geography
+
+  consumer-city:
+    description: "The city that the consumer was in when they clicked your link."
+    name: "Consumer City"
+
+  consumer-country:
+    description: "The Country that the consumer was in when they clicked your link."
+    name: "Consumer Country"
+
+  consumer-region:
+    description: "The Region or State that the consumer was in when they clicked your link."
+    name: "Consumer Region"
+
+
+  #Impressions
+
+  number-of-impressions:
+    description: "The number of times that an ad was served to a consumer on a Publisher's site."
+    name: "# of Impressions"
+
+
+  #Items
+
+  average-item-value:
+    description: "The sum of your sales divided by the total number of items sold."
+    name: "Average Item Value"
+
+  net-items-per-order:
+    description: "The number of items you sold divided by the number of orders that were placed."
+    name: "Net Items Per Order"
+
+  number-of-canceled-items:
+    description: "The number of items cancelled or returned in the date range you select."
+    name: "# of Cancelled Items"
+
+  number-of-items-percent-change-from-prior-year:
+    description: "The percent change in the number of items you sold year over year."
+    name: "# of Items % Change from Prior Year"
+
+  number-of-items-prior-year:
+    description: "The number of items you sold in the date range you select but for the prior year."
+    name: "# of Items Prior Year"
+
+  number-of-items:
+    description: "The number of items sold, including cancelled items, in the date range you select."
+    name: "# of Items"
+
+  event-number-of-items:
+    description: "The number of items sold, including cancelled items, in the date range you select."
+    name: "# of Items"
+
+  number-of-net-items:
+    description: "The number of items you sold after cancelled items are subtracted from gross number of items."
+    name: "# of Net Items"
+
+
+  #Mobile and Technology
+
+  browser-major-version:
+    description: "The major version of the browser a consumer used when clicking one of your links. For instance, if the browser is Firefox 20.0.1, this column will show 20."
+    name: "Browser Major Version"
+
+  browser-name:
+    description: "The name of the browser a consumer used when clicking your link. For instance, if the browser is Firefox 20.0.1, this column will show Firefox."
+    name: "Browser Name"
+
+  browser-version:
+    description: "The version of the browser a consumer used when clicking your link. For instance, if the browser is Firefox 20.0.1, this column will show 20.0.1."
+    name: "Browser Version"
+
+  browser:
+    description: "The browser a consumer used when clicking your link."
+    name: "Browser"
+
+  consumer-connection-speed:
+    description: "The consumer's internet connection speed at the time that they clicked your link."
+    name: "Consumer Connection Speed"
+
+  device:
+    description: "The device a consumer used when clicking your link. For instance, a PC, a tablet, an iPhone."
+    name: "Device"
+
+  mobile-operating-system:
+    description: "The operating system of the device a consumer used when clicking your link. For instance, iOS or Android."
+    name: "Mobile Operating System"
+
+
+  #Network
+
+  currency:
+    description: "The currency that the transaction was reported to Rakuten LinkShare in."
+    name: "Currency"
+
+  network-id:
+    description: "The identification number of the network that you are in."
+    name: "Network ID"
+
+  network:
+    description: "The Rakuten LinkShare Network that you are in."
+    name: "Network"
+
+
+  #Non-Commissionable Sales
+
+  non-commissionable-items:
+    description: "The number of items sold by a Publisher for which they didn't receive a commission."
+    name: "Non-Commissionable Items"
+
+  non-commissionable-order-id:
+    description: "The Order ID for a non-commissionable transaction."
+    name: "Non-Commissionable Order ID"
+
+  non-commissionable-reason:
+    description: "The reason a transaction was non-commissionable. It may be that the product was not part of an offer, the return days were exceeded, or some other circumstance."
+    name: "Non-Commissionable Reason"
+
+  non-commissionable-sales:
+    description: "The amount of sales that a Publisher generated for you on a non-commissionable transaction."
+    name: "Non-Commissionable Sales"
+
+
+  #Offer
+
+  offer-group-id:
+    description: "The Offer ID number for each of the offers that you set up for your Publishers (for example, offer 3.1)."
+    name: "Offer Group ID"
+
+  offer-id:
+    description: "The ID of the order as reported by your system to Rakuten LinkShare."
+    name: "Offer ID"
+  offer-name:
+    description: "The name you gave to an offer when creating it."
+    name: "Offer Name"
+
+
+  #Orders
+
+  average-order-value-percent-change:
+    description: "The percent change in total sales divided by total number of orders."
+    name: "Average Order Value % Change from Prior Year"
+
+  average-order-value-prior-year:
+    description: "Total sales divided by total number of orders for one year prior."
+    name: "Average Order Value Prior Year"
+
+  average-order-value:
+    description: "Total sales divided by total number of orders."
+    name: "Average Order Value"
+
+  number-of-orders-percent-change-from-prior-year:
+    description: "The percent change in number of orders reported year over year."
+    name: "# of Orders % Change from Prior Year"
+
+  number-of-orders-prior-year:
+    description: "The number of orders reported in the date range selected but for the prior year."
+    name: "# of Orders Prior Year"
+
+  number-of-orders:
+    description: "This is the number of orders reported to Rakuten LinkShare during the date range select."
+    name: "# of Orders"
+
+  order-id:
+    description: "The ID of the order as reported by your system to Rakuten LinkShare."
+    name: "Order ID"
+
+  event-order-id:
+    description: "The ID of the order as reported by your system to Rakuten LinkShare."
+    name: "Order ID"
+
+  orders-per-click-percent-change-from-prior-year:
+    description: "The percent change in orders\/click from one year prior"
+    name: "Orders\/Click % Change from Prior Year"
+
+  orders-per-click-prior-year:
+    description: "The number of orders divided by the number of clicks for one year prior."
+    name: "Orders\/Click Prior Year"
+
+  orders-per-click:
+    description: "The number of orders divided by the number of clicks."
+    name: "Orders\/Click"
+
+
+  #Product
+
+  product-name:
+    description: "The name of the product sold."
+    name: "Product Name"
+
+  sku:
+    description: "The SKU number of the product sold."
+    name: "SKU"
+
+
+  #Publisher
+
+  publisher-encrypted-id:
+    description: "The 11-character alphanumeric code unique to a publisher. This can be found in a publisher's LinkShare linking code, following \u201cid=\u201d and before \u201c&offerid=\u201d.\u201d"
+    name: "Publisher Encrypted ID"
+
+  publisher-group-id:
+    description: "The numeric value assigned by Rakuten LinkShare to a Publisher group that you created."
+    name: "Publisher Group ID"
+
+  publisher-group-name:
+    description: "The name of the group you assigned a Publisher to."
+    name: "Publisher Group Name"
+
+  publisher-id:
+    description: "The unique ID number Rakuten LinkShare assigns to a Publisher, also known as the SID."
+    name: "Publisher ID"
+
+  publisher-name:
+    description: "The Publisher's name."
+    name: "Publisher Name"
+
+  publisher-url:
+    description: "The Publisher's URL"
+    name: "Publisher URL"
+
+  publishers-per-group:
+    description: "The total number of Publishers in this group."
+    name: "Publishers Per Group"
+
+
+  #Sales
+
+  gross-sales-prior-year:
+    description: "This column gives you a total of all sales without taking cancellatons into account for one year prior. It is calculated by adding the the sum of all sales with values greater than 0, plus any sales maked as \"Discounts\". Note that Discounts have a value that is less than 0 but are considered to be part of Gross Sales because they are taken into account as part of the total sale price at checkout."
+    name: "Gross Sales Prior Year"
+
+  gross-sales:
+    description: "This column gives you a total of all sales without taking cancellatons into account. It is calculated by adding the the sum of all sales with values greater than 0, plus any sales maked as \"Discounts\". Note that Discounts have a value that is less than 0 but are considered to be part of Gross Sales because they are taken into account as part of the total sale price at checkout."
+    name: "Gross Sales"
+
+  sales-percent-change-from-prior-year:
+    description: "The % change in sales from one year ago for the time period selected."
+    name: "Sales % Change from Prior Year"
+
+  sales-prior-year:
+    description: "Total sales in the time period selected for one year prior."
+    name: "Sales Prior Year"
+
+  sales:
+    description: "Total sales in the time period selected."
+    name: "Sales"
+
+  event-sales:
+    description: "Total sales in the time period selected."
+    name: "Sales"
+
+
+  #Transaction Details
+
+  member-id:
+    description: "A field the Publisher appends to the Rakuten LinkShare tracking process.  For instance, a rewards or loyalty Publisher can use this field to capture member information."
+    name: "Member ID (U1)"
+
+  member-id-masked:
+    description: "A field the Publisher appends to the Rakuten LinkShare tracking process.  For instance, a rewards or loyalty Publisher can use this field to capture member information."
+    name: "Member ID (U1)"
+
+  referrer-url:
+    description: "The web page that referred a customer to your site. This field is useful if you suspect that a Publisher is committing fraud."
+    name: "Referrer URL"
+
+  transaction-click-ip-address:
+    description: "The IP address of the customer who clicked your link."
+    name: "Click IP Address"
+
+  transaction-id:
+    description: "The unique ID number Rakuten LInkShare assigns to each transaction you report to us."
+    name: "Transaction ID"
