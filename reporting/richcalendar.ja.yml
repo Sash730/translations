@@ -1,4 +1,4 @@
-richcalendar
+richcalendar:
   date_range: "期間"
   compare_to: "比較対象期間"
   start_date: "開始日"
