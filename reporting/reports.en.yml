@@ -24,7 +24,7 @@ reports:
   link-type-report:
     name: Link Type Report
     advertiser:
-      description: The Link Type Report shows key transactional metrics, aggregated by link type.  For example, you can see number of impressions, clicks, orders, items, sales and commissions for all Banners, all Text links, and all other link types.   Additional information calculated for you in this report includes Click Through Rate (CTR), Conversion (Orders\/Click) and Average Order Value (AOV).  Tips: Add the Link ID Column to this report to see data per individual link within each link type.  To drill down further, add a 'Greater Than or Equal To' Filter on the # of Clicks column.
+      description: "The Link Type Report shows key transactional metrics, aggregated by link type.  For example, you can see number of impressions, clicks, orders, items, sales and commissions for all Banners, all Text links, and all other link types.   Additional information calculated for you in this report includes Click Through Rate (CTR), Conversion (Orders\/Click) and Average Order Value (AOV).  Tips: Add the Link ID Column to this report to see data per individual link within each link type.  To drill down further, add a 'Greater Than or Equal To' Filter on the # of Clicks column."
     publisher:
       description: The Link Type Report provides performance information by type of link (e.g., Banner, Text, or Product Link) as well as by banner size and specific banner creative. It shows you the links that are working most effectively.
 
