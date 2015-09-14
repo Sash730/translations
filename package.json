@@ -1,10 +1,18 @@
 {
   "name": "dictionaries",
   "version": "1.0.0",
-  "description": "",
+  "description": "RANT dictionaries",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.private.linksynergy.com/vadim-tykov/dictionaries.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-translation": "git+ssh://git@github.private.linksynergy.com:vadim-tykov/grunt-translation.git#dev"
   },
   "repository": {
     "type": "git",
