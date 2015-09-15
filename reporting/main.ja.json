@@ -40,6 +40,8 @@
   "label.of": "件 (全",
   "label.rows": "件)",
   "label.remove_this_column": "このカラムを削除",
+  "label.charts_preloading": "読み込み中...",
+  "label.charts_preloading_message": "データ処理が完了するまで、今しばらくお待ちください",
   "label.report-summary": "総計を表示",
   "label.hide-summary": "総計を表示しない",
   "label.summary.this-period": "抽出期間",
