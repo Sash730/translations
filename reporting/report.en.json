@@ -1,0 +1,6 @@
+{
+  "report.export.name": "Report Name",
+  "report.export.date": "Date Run",
+  "report.export.filters": "Filters",
+  "report.run.denied": "You have reached your max of %num% requests to run a report"
+}
