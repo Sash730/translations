@@ -40,6 +40,8 @@
   "reports.revenue-report-by-month.publisher.description": "販売額、オーダー数、CTRや報酬額等の月別レポートが抽出されます。",
   "reports.sales-and-activity-report.advertiser.name": "アフィリエイト別レポート",
   "reports.sales-and-activity-report.publisher.name": "ECサイト別レポート",
+  "reports.sales-and-activity-report.advertiser.description": "アフィリエイトパートナー毎のレポートが抽出されます。主要なインプレッション数、クリック数販売額や報酬額等が表示されます。オーダーアクティブなアフィリエイトパートナーのみを抽出する場合は、フィルターにてオーダー数を1以上とご指定下さい。",
+  "reports.sales-and-activity-report.publisher.description": "広告主毎のレポートが抽出されます。主要なインプレッション数、クリック数販売額や報酬額等が表示されます。オーダーアクティブなアフィリエイトパートナーのみを抽出する場合は、フィルターにてオーダー数を1以上とご指定下さい。",
   "reports.signature-activity-report.name": "メンバー別レポート",
   "reports.signature-activity-report.description": "エンドユーザー単位のクリック数、販売額、報酬が抽出されます。",
   "reports.signature-orders-report.name": "メンバー別詳細レポート",
