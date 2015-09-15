@@ -40,6 +40,8 @@
   "reports.revenue-report-by-month.publisher.description": "This report lets you see sales, activity, orders per click (Orders/Click%), clicks per impression (CTR%), and commissions broken down by month",
   "reports.sales-and-activity-report.advertiser.name": "Sales and Activity Report",
   "reports.sales-and-activity-report.publisher.name": "Sales and Activity Report",
+  "reports.sales-and-activity-report.advertiser.description": "The Sales and Activity Report allows you to track the activity of your Publishers.  This report shows key metrics including number of impressions and clicks they generated, the amount of sales they drove, and the commissions they earned.  To identify your Order-Active Publishers, filter by Number of Orders  that are Greater Than or Equal To 1.",
+  "reports.sales-and-activity-report.publisher.description": "The Sales & Activity Report allows you to view the activity for each advertiser program you are participating in.",
   "reports.signature-activity-report.name": "Signature Activity Report",
   "reports.signature-activity-report.description": "The Signature Activity Report, when utilized by publishers using our Signature technology, allows you to view your link activity down to the individual user level.",
   "reports.signature-orders-report.name": "Signature Orders Report",
