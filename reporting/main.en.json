@@ -40,6 +40,8 @@
   "label.of": "of",
   "label.rows": "rows",
   "label.remove_this_column": "Remove this column",
+  "label.charts_preloading": "Loading",
+  "label.charts_preloading_message": "Please wait a moment while your request is being processed",
   "label.report-summary": "Report Summary",
   "label.hide-summary": "Hide the Summary Panel",
   "label.summary.this-period": "This period",
