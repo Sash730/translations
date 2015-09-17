@@ -17,7 +17,7 @@
   "columns.categories.Publisher": "アフィリエイト",
   "columns.categories.Sales": "販売額",
   "columns.categories.Transaction Details": "成果詳細",
-  "columns.previous-period": "~~~~~~~",
+  "columns.previous-period": "比較対象期間",
   "columns.advertiser-name.description": "ECサイト名（貴サイトのECサイト名が表示されますので選択不要です）",
   "columns.advertiser-name.name": "広告主名",
   "columns.mid.description": "ECサイトを識別するユニークな番号（管理画面にログインすると右上に表示されております　貴サイトのMIDが表示されますので選択不要です）",
