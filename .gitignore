@@ -6,3 +6,5 @@ dist
 .tmp
 
 build
+/nbproject/private/
+nbproject/*

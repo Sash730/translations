@@ -219,5 +219,7 @@
   "columns.transaction-click-ip-address.description": "リンクシェアのリンクがクリックされた端末のIPアドレス",
   "columns.transaction-click-ip-address.name": "クリックIPアドレス",
   "columns.transaction-id.description": "それぞれのトランザクションごとに自動的につけられるユニークなID",
-  "columns.transaction-id.name": "トランザクションID"
+  "columns.transaction-id.name": "トランザクションID",
+  "columns.full-landing-url.description": "エンドユーザがアフィリエイトリンクをクリックした際に遷移した広告主サイトのURLとなります。",
+  "columns.full-landing-url.name": "参照先URL"
 }

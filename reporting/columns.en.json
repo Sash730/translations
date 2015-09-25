@@ -219,5 +219,7 @@
   "columns.transaction-click-ip-address.description": "The IP address of the customer who clicked your link.",
   "columns.transaction-click-ip-address.name": "Click IP Address",
   "columns.transaction-id.description": "The unique ID number Rakuten LInkShare assigns to each transaction you report to us.",
-  "columns.transaction-id.name": "Transaction ID"
+  "columns.transaction-id.name": "Transaction ID",
+  "columns.full-landing-url.description": "This is URL of the page on the advertiser's site where the consumer lands after clicking the affiliate link on the publisher's site.",
+  "columns.full-landing-url.name": "Landing URL"
 }
