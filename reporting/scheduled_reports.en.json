@@ -1,0 +1,6 @@
+{
+  "scheduled_report.mail.subject.success": "Scheduled Report \"%s\" Complete",
+  "scheduled_report.recurrence.daily": "Daily",
+  "scheduled_report.recurrence.weekly": "Every %s",
+  "scheduled_report.recurrence.monthly": "On every %s of the month",
+}
