@@ -1,7 +1,0 @@
-{
-  "report.export.name": "レポート名",
-  "report.export.date": "レポート表示日",
-  "report.export.filters": "フィルター",
-  "report.run.denied": "レポートは1日に%num%回以上抽出できません。",
-  "report.timezone": "タイムゾーン"
-}
