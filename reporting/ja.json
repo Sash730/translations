@@ -1,6 +1,5 @@
 {
   "message.unauthorized.description": "レポートを表示できません。",
-  "message.welcome": "新レポートメニューへようこそ",
   "message.get-started-now": "今すぐ利用する場合は：",
   "message.select-report-from-menu": "上のドロップダウンからレポートを選択できます",
   "message.or": "もしくは",
