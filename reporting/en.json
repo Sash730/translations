@@ -367,6 +367,7 @@
   "modal.delete_report": "Delete Report",
   "modal.download_report_as_CSV": "Download Report as CSV",
   "modal.edit_filter": "Edit Filter",
+  "modal.enter_comma_separated_values": "Separate # by comma",
   "modal.enter_currency_value": "Enter currency value",
   "modal.enter_number": "Enter number",
   "modal.enter_text": "Enter text",
