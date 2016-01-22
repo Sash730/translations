@@ -378,6 +378,7 @@
   "modal.message.file_name_must_be_alphanumeric": "File name must be alphanumeric and may contain dashes.",
   "modal.message.file_name_must_have_csv_extension": "File name must have a .csv extension.",
   "modal.message.file_name_must_not_exceed_50_characters": "File name must not exceed 50 characters.",
+  "modal.message.invalid_comma_separated_values": "Invalid format.",
   "modal.message.report_API_allows_to_run_without_logging_into_dashboard": "The report API allows you to run your Rakuten Marketing reports without logging into the dashboard.",
   "modal.message.report_category_is_limited_to_200_characters": "Report Category is limited to 200 characters.",
   "modal.message.report_category_is_required": "Report Category is required.",
