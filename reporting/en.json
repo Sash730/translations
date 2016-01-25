@@ -451,6 +451,7 @@
   "reports.revenue-report-by-month.advertiser.description": "This report lets you see sales, activity, orders per click (Orders/Click%), clicks per impression (CTR%), and commissions broken down by month",
   "reports.revenue-report-by-month.name": "Revenue Report by Month",
   "reports.revenue-report-by-month.publisher.description": "This report lets you see sales, activity, orders per click (Orders/Click%), clicks per impression (CTR%), and commissions broken down by month",
+  "reports.revenue-report-by-week.name": "Revenue Report by Week",
   "reports.sales-and-activity-report.advertiser.description": "The Sales and Activity Report allows you to track the activity of your Publishers.  This report shows key metrics including number of impressions and clicks they generated, the amount of sales they drove, and the commissions they earned.  To identify your Order-Active Publishers, filter by Number of Orders  that are Greater Than or Equal To 1.",
   "reports.sales-and-activity-report.advertiser.name": "Sales and Activity Report",
   "reports.sales-and-activity-report.publisher.description": "The Sales & Activity Report allows you to view the activity for each advertiser program you are participating in.",
