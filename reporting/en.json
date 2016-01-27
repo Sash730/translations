@@ -547,6 +547,7 @@
   "schedule.am": "AM",
   "schedule.begin_date": "Begin Date",
   "schedule.connection-failed": "Connection failed.",
+  "schedule.connection-successfully": "Connected successfully.",
   "schedule.daily": "Daily",
   "schedule.data_ready_message": "Please note: For date ranges that include “yesterday,” it is recommended that you schedule your send time for a few hours after Midnight GMT in order to allow adequate time for data processing.",
   "schedule.day_in_month": "Specific day in a month",
