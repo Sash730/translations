@@ -238,6 +238,7 @@
   "columns.publisher-url.name": "Publisher URL",
   "columns.publishers-per-group.description": "The total number of Publishers in this group.",
   "columns.publishers-per-group.name": "Publishers Per Group",
+  "columns.quantity.name": "Quantity",
   "columns.raw-number-of-clicks.description": "The total number of clicks recorded in the selected date range.",
   "columns.raw-number-of-clicks.name": "# of Clicks",
   "columns.referrer-url.description": "The web page that referred a customer to your site. This field is useful if you suspect that a Publisher is committing fraud.",
