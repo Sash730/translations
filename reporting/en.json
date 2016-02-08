@@ -238,6 +238,7 @@
   "columns.publisher-url.name": "Publisher URL",
   "columns.publishers-per-group.description": "The total number of Publishers in this group.",
   "columns.publishers-per-group.name": "Publishers Per Group",
+  "columns.quantity.description": "Similar to the \"# of Items\" column. Quantity is the number of items sold, excluding cancelled items.",
   "columns.quantity.name": "Quantity",
   "columns.raw-number-of-clicks.description": "The total number of clicks recorded in the selected date range.",
   "columns.raw-number-of-clicks.name": "# of Clicks",
