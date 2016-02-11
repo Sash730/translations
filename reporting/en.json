@@ -330,6 +330,7 @@
   "label.predefinedFilter.US Network": "US Network",
   "label.remove_this_column": "Remove this column",
   "label.report-summary": "Report Summary",
+  "label.report_contains_hidden_columns": "This report contains the following hidden column(s):",
   "label.rows": "rows",
   "label.showing": "Showing",
   "label.summary.prior-period": "Prior period",
