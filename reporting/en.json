@@ -296,6 +296,7 @@
   "label.charts_preloading": "Loading",
   "label.charts_preloading_message": "Please wait a moment while your request is being processed",
   "label.columnselector.add_and_remove_columns": "Add and Remove Columns",
+  "label.columnselector.is_a_hidden_column": "is a hidden column in this report.",
   "label.columnselector.metrics-columns": "Metrics (at least one required)",
   "label.columnselector.search_Columns": "Search Columns",
   "label.compareOptions.does-not-equal": "does not equal",
