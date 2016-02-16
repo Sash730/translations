@@ -251,6 +251,7 @@
   "filterselector.label.metrics": "Critères",
   "filterselector.label.search_filters": "Chercher des filtres",
   "label.add_filter": "Ajouter un filtre",
+  "label.charts_preloading": "Chargement",
   "label.columnselector.add_and_remove_columns": "Ajouter et supprimer des colonnes",
   "label.columnselector.metrics-columns": "Critère (en sélectionner un au minimum)",
   "label.columnselector.search_Columns": "Chercher des colonnes",
