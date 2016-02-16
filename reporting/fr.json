@@ -403,6 +403,7 @@
   "reports.revenue-report-by-day.advertiser.description": "Le rapport sur les revenues par jour montre les éléments clés sur les transactions filtres par date de transaction. Pour obtenir ce rapport par semaine, mois, année ou jour de la semaine, sauvegarde le rapport et éditer ce dernier pour retirer la colonne avec la date de la transaction pour la remplacer par le mois, l'année ou autres.",
   "reports.revenue-report-by-day.name": "Rapport sur les revenues par jour",
   "reports.revenue-report-by-day.publisher.description": "Le rapport sur les revenues aide à découvrir les meilleurs jours pour les ventes",
+  "reports.revenue-report-by-month.name": "Rapport des revenus par mois",
   "reports.sales-and-activity-report.advertiser.description": "Le rapport sur les performances et ventes vous permet de suivre les activités de vos éditeurs. Ce rapport montre les critères clés comme le nombre d'impressions et les clics générés, le montant des ventes et les commissions. Pour identifier un éditeur actif en termes de vente, filtrer par nombre de commandes supérieur a 1.",
   "reports.sales-and-activity-report.publisher.description": "Le rapport sur les performances et ventes vous permet de voir les activités pour chaque annonceur.",
   "reports.sales-and-activity-report.publisher.name": "Rapport sur les performances et ventes.",
