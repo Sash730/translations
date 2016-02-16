@@ -368,6 +368,7 @@
   "reminder.save-report.message": "Il semble que vous avez édité quelque chose -  Vos changements seront perdus si vous continuez cette action.",
   "reminder.save-report.resume": "Continuer à utiliser ce rapport",
   "reminder.save-report.save": "Sauvegarder les changements",
+  "report.timezone": "Zone horaire",
   "report_new.title": "Monter un nouveau rapport",
   "reports.groups.Best Reports": "Meilleurs rapports",
   "reports.groups.Favorite Reports": "Rapports favoris",
