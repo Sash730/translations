@@ -246,6 +246,8 @@
   "columns.transaction-year.description": "L'année pendant laquelle un consommateur a générée une transaction",
   "columns.transaction-year.name": "Année de la transaction",
   "columns.weekday.content.Friday": "Vendredi",
+  "columns.weekday.content.Monday": "Lundi",
+  "columns.weekday.content.Saturday": "Samedi",
   "columns.weekday.content.Sunday": "Dimanche",
   "filterselector.label.add_a_filter": "Ajouter un filtre",
   "filterselector.label.choose_one": "Choisir un",
