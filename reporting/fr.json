@@ -13,6 +13,8 @@
   "button.toggle_dropdown": "Basculer sur le déroulement",
   "button.view_report": "Visualiser le rapport",
   "button.view_report_info": "Voir les informations sur votre rapport",
+  "carousel.show_less": "Voir moins",
+  "carousel.show_more": "Voir plus",
   "columns.adjusted-commission.description": "Pour les commissions avec une structure par niveau, il s'agit de la commissions qui est ajoute à la commission de base quand un éditeur attend un certain montant de ventes. Par exemple, un annonceur créera une offre qui est à 3% entre 0 et 100 euros en termes de ventes mais sera à 6% pour les ventes générés après avoir atteint le premier niveau. Les ventes cumulées sont calcules mensuellement et les commissions en plus sont ajoutes dans la catégorie \"commission ajustée\". Cette valeur est ajoute seulement en fin de mois une fois que la facture a été créée.",
   "columns.adjusted-commission.name": "Commissions ajustées",
   "columns.advertiser-name.description": "Sélectionner cette colonne quand vous montez un rapport pour plusieurs annonceurs afin de pouvoir filtrer par la suite",
