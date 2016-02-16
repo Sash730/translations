@@ -249,6 +249,7 @@
   "columns.weekday.content.Monday": "Lundi",
   "columns.weekday.content.Saturday": "Samedi",
   "columns.weekday.content.Sunday": "Dimanche",
+  "columns.weekday.content.Tuesday": "Mardi",
   "columns.weekday.content.Wednesday": "Mercredi",
   "filterselector.label.add_a_filter": "Ajouter un filtre",
   "filterselector.label.choose_one": "Choisir un",
