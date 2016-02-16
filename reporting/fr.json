@@ -245,6 +245,8 @@
   "columns.transaction-week-end-date.name": "Date de fin de semaine de la transaction",
   "columns.transaction-year.description": "L'année pendant laquelle un consommateur a générée une transaction",
   "columns.transaction-year.name": "Année de la transaction",
+  "columns.weekday.content.Friday": "Vendredi",
+  "columns.weekday.content.Sunday": "Dimanche",
   "filterselector.label.add_a_filter": "Ajouter un filtre",
   "filterselector.label.choose_one": "Choisir un",
   "filterselector.label.enter_keyword": "Entrer les mots clés",
