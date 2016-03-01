@@ -273,6 +273,7 @@
   "columns.transaction-month-day.description": "The month and date when the consumer completed the transaction.",
   "columns.transaction-month-day.name": "Transaction Month-Day",
   "columns.transaction-month-year.description": "The month and year when a consumer completed the transaction.",
+  "columns.transaction-month-year.name": "Transaction Month-Year",
   "columns.transaction-month.description": "The month that a consumer completed a transaction.",
   "columns.transaction-month.name": "Transaction Month",
   "columns.transaction-time.description": "The time of day that a consumer completed a transaction in GMT.",
