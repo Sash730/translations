@@ -212,6 +212,7 @@
   "columns.process-day-of-week.name": "Process Day of Week",
   "columns.process-month-day.description": "The month and date when the transaction was sent to Rakuten LinkShare.",
   "columns.process-month-day.name": "Process Month-Day",
+  "columns.process-month-year.name": "Process Month-Year",
   "columns.process-month.description": "The month that you sent a transaction to Rakuten LinkShare.",
   "columns.process-month.name": "Process Month",
   "columns.process-time.description": "The time that you sent a transaction to Rakuten LinkShare, in GMT.",
