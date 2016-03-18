@@ -539,6 +539,7 @@
   "richcalendar.yesterday": "Hier",
   "schedule.add_an_email": "Ajouter un email",
   "schedule.begin_date": "Date de début",
+  "schedule.connection-successfully": "Connecté avec succès.",
   "schedule.daily": "Quotidien",
   "schedule.data_ready_message": "Veuillez noter: Pour les périodes de temps incluant la journée d'hier, il est recommandé de planifier un temps d'envoi quelques heures après minuit dans le but de donner le maximum de temps aux données d'être traitées.",
   "schedule.day_in_month": "Jour precis dans un mois",
