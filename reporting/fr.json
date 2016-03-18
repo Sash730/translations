@@ -1,6 +1,7 @@
 {
   "ajax.fail": "Veuillez nous excuser car nous ne pouvons traiter votre requête. Veuillez ressayer plus tard.",
   "ajax.timeout": "Cela prend plus longtemps pour compléter cette action. Veuillez ressayer plus tard.",
+  "button.apply": "Appliquer",
   "button.build-a-new-report-from-scratch": "Construire un nouveau rapport.",
   "button.cancel": "Annuler",
   "button.delete_report": "Supprimer le rapport",
