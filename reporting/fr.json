@@ -234,6 +234,7 @@
   "columns.publisher-url.name": "L'URL de l'éditeur",
   "columns.publishers-per-group.description": "Le nombre total d'éditeur au sein d'un groupe",
   "columns.publishers-per-group.name": "Editeurs par groupe",
+  "columns.quantity.name": "Quantité",
   "columns.raw-number-of-clicks.description": "Le nombre total de clics enregistre pour la période de temps sélectionnée.",
   "columns.raw-number-of-clicks.name": "Nombre de clics",
   "columns.referrer-url.description": "La page Web qui relie un consommateur a votre site. Ce champ est utile si vous suspectez un éditeur de commettre une fraude.",
