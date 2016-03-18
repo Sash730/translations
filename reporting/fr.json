@@ -446,6 +446,7 @@
   "reports.revenue-report-by-day.publisher.description": "Le rapport sur les revenues aide à découvrir les meilleurs jours pour les ventes",
   "reports.revenue-report-by-month.advertiser.description": "Ce rapport vous laisse voir les ventes, activité, commandes par clics (% de commandes par clics), les clics par impression (% de CTR) et les commissions filtrées par mois",
   "reports.revenue-report-by-month.name": "Rapport des revenus par mois",
+  "reports.revenue-report-by-week.name": "Rapport de revenus par semaine",
   "reports.sales-and-activity-report.advertiser.description": "Le rapport sur les performances et ventes vous permet de suivre les activités de vos éditeurs. Ce rapport montre les critères clés comme le nombre d'impressions et les clics générés, le montant des ventes et les commissions. Pour identifier un éditeur actif en termes de vente, filtrer par nombre de commandes supérieur a 1.",
   "reports.sales-and-activity-report.advertiser.name": "Rapport des ventes et activités",
   "reports.sales-and-activity-report.publisher.description": "Le rapport sur les performances et ventes vous permet de voir les activités pour chaque annonceur.",
