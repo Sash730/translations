@@ -374,6 +374,7 @@
   "modal.message.file_name_must_be_alphanumeric": "Le nom du fichier doit être numérique et peut contenir des barres",
   "modal.message.file_name_must_have_csv_extension": "Le nom du fichier doit avoir une extension sous format CSV",
   "modal.message.file_name_must_not_exceed_50_characters": "Le nom du fichier ne doit pas dépasser les 50 caractères",
+  "modal.message.invalid_comma_separated_values": "Format non valide.",
   "modal.message.report_API_allows_to_run_without_logging_into_dashboard": "Le rapport d'API vous autorise à obtenir vos rapports sans se connecter à votre tableau de bord.",
   "modal.message.report_category_is_limited_to_200_characters": "La catégorie du rapport est limite à 200 caractères.",
   "modal.message.report_category_is_required": "La catégorie du rapport est obligatoire.",
