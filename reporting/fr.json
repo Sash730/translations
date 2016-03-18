@@ -548,6 +548,7 @@
   "schedule.FTP": "FTP",
   "schedule.FTP_location": "Location du serveur FTP",
   "schedule.no_end": "Pas de fin",
+  "schedule.on_every": "sur chaque",
   "schedule.opted_out_emails": "Les adresses emails en rouge se sont retirées de la liste de distribution des emails pour les rapports planifiés",
   "schedule.Password": "Mot de passe",
   "schedule.protocol": "Protocole",
