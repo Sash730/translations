@@ -291,6 +291,8 @@
   "columns.weekday.content.Tuesday": "火曜日",
   "columns.weekday.content.Wednesday": "水曜日",
   "filterselector.label.add_a_filter": "フィルターの追加",
+  "filterselector.label.choose_one": "選択してください",
+  "filterselector.label.enter_keyword": "キーワードを入力してください",
   "filterselector.label.metrics": "メトリクス",
   "filterselector.label.search_filters": "フィルターの検索",
   "label.add_filter": "フィルターの追加",
