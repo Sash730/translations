@@ -367,6 +367,7 @@
   "modal.delete_report": "レポートの削除",
   "modal.download_report_as_CSV": "CSVでダウンロード",
   "modal.edit_filter": "フィルターの編集",
+  "modal.enter_comma_separated_values": "コンマで区切ってください",
   "modal.enter_currency_value": "金額を入力してください",
   "modal.enter_number": "数値を入力してください",
   "modal.enter_text": "文字列を入力してください",
