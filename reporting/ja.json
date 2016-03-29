@@ -269,6 +269,7 @@
   "columns.transaction-id.name": "トランザクションID",
   "columns.transaction-month-day.description": "エンドユーザーが成果対象行為（購買）を行った月日",
   "columns.transaction-month-day.name": "購買月日",
+  "columns.transaction-month-year.description": "エンドユーザーが成果対象行為（購買）を行った日の月と日",
   "columns.transaction-month.description": "エンドユーザーが成果対象行為（購買）を行った日の月（GMT）",
   "columns.transaction-month.name": "購買日（月）",
   "columns.transaction-time.description": "エンドユーザーが成果対象行為（購買）を行った時刻（GMT）",
