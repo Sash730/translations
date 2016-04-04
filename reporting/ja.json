@@ -339,6 +339,7 @@
   "label.summary.prior-period": "比較対象期間",
   "label.summary.this-period": "抽出期間",
   "label.unschedule_inform_message": "レポートが配信されなくなります。このレポートの配信を解除しますか？",
+  "label.unschedule_report": "レポートの配信を停止する",
   "label.unscheduled_successfully": "レポートの配信解除設定が完了しました。",
   "message.at-least-one-column-required": "レポートの表示またはダウンロードにはメトリクスの項目を一つ以上含めなければいけません。",
   "message.click-view-to-see-changes": "編集した内容を確認するには \"レポートの表示\" をクリック",
