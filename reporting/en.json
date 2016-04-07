@@ -605,5 +605,6 @@
   "title.Go forward": "Go forward",
   "title.Go to first page": "Go to first page",
   "title.Go to last page": "Go to last page",
-  "title.rows-per-page": "Rows per page:"
+  "title.rows-per-page": "Rows per page:",
+  "validation.end_date_greater_start_date": "End date should be greater than start date"
 }

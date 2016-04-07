@@ -297,6 +297,7 @@
   "filterselector.label.metrics": "Critères",
   "filterselector.label.search_filters": "Chercher des filtres",
   "label.add_filter": "Ajouter un filtre",
+  "label.advertiserselector.search_Advertisers": "Recherche d'Annonceurs",
   "label.charts_preloading": "Chargement",
   "label.charts_preloading_message": "Veuillez patienter quelques instants pendant que votre requête est en train d'être traitée",
   "label.columnselector.add_and_remove_columns": "Ajouter et supprimer des colonnes",
