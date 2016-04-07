@@ -535,7 +535,7 @@
   "schedule.pm": "午後",
   "schedule.protocol": "プロトコル",
   "schedule.Save_on_FTP": "スケジュールレポートをFTPサーバーに配信する",
-  "schedule.schedule_has_expired": "配信が終了しました。配信終了日の日付を選択してくださ",
+  "schedule.schedule_has_expired": "配信終了日は未来の日付を選択してください。",
   "schedule.schedule_method": "配信方法と配信先",
   "schedule.schedule_time": "配信時刻",
   "schedule.select_interval": "レポート抽出期間",
