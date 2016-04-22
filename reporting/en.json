@@ -602,6 +602,7 @@
   "scheduled_report.recurrence.daily": "Daily",
   "scheduled_report.recurrence.monthly": "On every %s of the month",
   "scheduled_report.recurrence.weekly": "Every %s",
+  "Thank you. You have unsubscribed from receiving Scheduled Reports.": "Thank you. You have unsubscribed from receiving Scheduled Reports.",
   "title.Go backward": "Go backward",
   "title.Go forward": "Go forward",
   "title.Go to first page": "Go to first page",
