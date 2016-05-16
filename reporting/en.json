@@ -1,4 +1,5 @@
 {
+  "agency.get_api_disabled": "Get API is not available for group reports",
   "ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
   "ajax.timeout": "It is taking longer to complete this action. Please try again.",
   "button.apply": "Apply",
