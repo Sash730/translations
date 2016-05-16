@@ -1,4 +1,5 @@
 {
+  "agency.get_api_disabled": "Get API is not available for group reports",
   "ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
   "ajax.timeout": "It is taking longer to complete this action. Please try again.",
   "button.apply": "Apply",
@@ -19,6 +20,7 @@
   "button.view_report_info": "View Report Info",
   "carousel.show_less": "Show Less",
   "carousel.show_more": "Show More",
+  "Click on the button below to unsubscribe from Scheduled Reports.": "Click on the button below to unsubscribe from Scheduled Reports.",
   "columns.adjusted-commission.description": "For tiered commission structures, this is the commission that is added to the baseline commission when a Publisher reaches a certain level of sales. For example, an Advertiser will set an offer that is 3% from $0 - $100 in sales but will be 6% for any sales over $100.  Cumulative sales are calculated on a per-month basis and the additional commission is added (the difference between 3% and 6%) in the Adjusted Commission field.  This value is populated only at the end of the month when the Publisher Invoices are generated.",
   "columns.adjusted-commission.name": "Adjusted Commission",
   "columns.advertiser-name.description": "Select this column when running a report for more than one Advertiser to see which row of data pertains to which Advertiser.",
@@ -601,10 +603,12 @@
   "scheduled_report.recurrence.daily": "Daily",
   "scheduled_report.recurrence.monthly": "On every %s of the month",
   "scheduled_report.recurrence.weekly": "Every %s",
+  "Thank you. You have unsubscribed from receiving Scheduled Reports.": "Thank you. You have unsubscribed from receiving Scheduled Reports.",
   "title.Go backward": "Go backward",
   "title.Go forward": "Go forward",
   "title.Go to first page": "Go to first page",
   "title.Go to last page": "Go to last page",
   "title.rows-per-page": "Rows per page:",
-  "validation.end_date_greater_start_date": "End date should be greater than start date"
+  "validation.end_date_greater_start_date": "End date should be greater than start date",
+  "You have already unsubscribed from receiving Scheduled Reports.": "You have already unsubscribed from receiving Scheduled Reports."
 }
