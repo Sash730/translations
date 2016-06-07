@@ -609,6 +609,7 @@
   "title.Go to first page": "Go to first page",
   "title.Go to last page": "Go to last page",
   "title.rows-per-page": "Rows per page:",
+  "tooltip.download_csv_unavailable": "Download CSV is unavailable at this time",
   "validation.end_date_greater_start_date": "End date should be greater than start date",
   "You have already unsubscribed from receiving Scheduled Reports.": "You have already unsubscribed from receiving Scheduled Reports."
 }
