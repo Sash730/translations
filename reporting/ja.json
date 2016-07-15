@@ -554,7 +554,7 @@
   "scheduled_report.mail.subject.success": "スケジュールレポート \"%s\"の配信完了",
   "scheduled_report.recurrence.daily": "毎日",
   "scheduled_report.recurrence.monthly": "毎月 %s 日",
-  "scheduled_report.recurrence.weekly": "毎週 % 曜日",
+  "scheduled_report.recurrence.weekly": "毎週 %s 曜日",
   "title.Go backward": "戻る",
   "title.Go forward": "進む",
   "title.Go to first page": "始めのページ",
