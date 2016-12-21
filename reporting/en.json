@@ -614,5 +614,9 @@
   "tooltip.save_as_new_group_report": "Advertiser Name filter has been added to this report. Please save as a new report",
   "tooltip.schedule_time_warning": "For date ranges that include yesterday, it is recommended that you set the Schedule Time for a few hours after Midnight GMT in order to allow adequate time for data processing",
   "validation.end_date_greater_start_date": "End date should be greater than start date",
-  "You have already unsubscribed from receiving Scheduled Reports.": "You have already unsubscribed from receiving Scheduled Reports."
+  "You have already unsubscribed from receiving Scheduled Reports.": "You have already unsubscribed from receiving Scheduled Reports.",
+  "whitelabel.columns.categories.Advertiser": "Campaign",
+  "whitelabel.columns.categories.Network": "Currency",
+  "whitelabel.columns.advertiser-name.name": "Campaign Name",
+  "whitelabel.columns.mid.name": "Campaign ID"
 }
