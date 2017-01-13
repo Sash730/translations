@@ -619,5 +619,6 @@
 	"whitelabel.columns.categories.Network": "Currency",
 	"whitelabel.columns.advertiser-name.name": "Campaign Name",
 	"whitelabel.columns.mid.name": "Campaign ID",
-	"label.all-advertisers": "All Advertisers"
+	"label.all-advertisers": "All Advertisers",
+	"label.all-publishers": "All Publishers"
 }

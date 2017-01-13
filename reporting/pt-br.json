@@ -584,5 +584,6 @@
 	"title.Go to first page": "Vá à primeira página",
 	"title.Go to last page": "Ir para a última página",
 	"title.rows-per-page": "Linhas por página:",
-	"label.all-advertisers": "Todos Anunciantes"
+	"label.all-advertisers": "Todos Anunciantes",
+	"label.all-publishers": "Todos Afiliados"
 }

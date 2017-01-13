@@ -606,5 +606,6 @@
 	"title.Go to first page": "Allez à la première page",
 	"title.Go to last page": "Allez à la dernière page",
 	"title.rows-per-page": "Lignes par page",
-	"label.all-advertisers": "Tous les annonceurs"
+	"label.all-advertisers": "Tous les annonceurs",
+	"label.all-publishers": "Tous les éditeurs"
 }
