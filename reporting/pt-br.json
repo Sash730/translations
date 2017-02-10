@@ -338,7 +338,7 @@
 	"message.columnselector.Some_columns_may_not_be_available": "Algumas colunas podem não estar disponíveis porque elas são incompatíveis com outras colunas neste relatório.",
 	"message.get-started-now": "Inicie agora:",
 	"message.need-to-run-a-report": "Precisa gerar um relatório?",
-	"message.news-on-new-reporting-interface": "Leia sobre todas as novidades que você pode fazer com a nova interface de relatórios. ",
+	"message.news-on-new-reporting-interface": "Veja todas as coisas que você pode fazer com a interface de relatórios",
 	"message.no-data-click-view": "Nenhuma informação? Clique \"Visualizar Relatório\"",
 	"message.no-results-found": "Resultados não encontrados. Tente alterar o período e gere o relatório novamente",
 	"message.or": "ou",
@@ -348,7 +348,7 @@
 	"message.update-api-token": "Atualize o Token do API",
 	"message.view-edit-build-report": "Você pode visualizar ou editar qualquer um dos relatórios existentes ou construir um novo relatório do zero",
 	"message.want-to-learn-more": "Quer saber mais?",
-	"message.welcome": "Bem vindo à nova Interface de Relatórios",
+	"message.welcome": "Bemvindo a interface de relatórios",
 	"modal.add_filter": "Adicionar Filtro",
 	"modal.API_URL_copied_to_clipboard": "A URL da API foi copiada para a área de transferência",
 	"modal.are_you_sure_to_delete_report": "Você tem certeza que quer deletar este relatório?",
@@ -585,5 +585,6 @@
 	"title.Go to last page": "Ir para a última página",
 	"title.rows-per-page": "Linhas por página:",
 	"label.all-advertisers": "Todos Anunciantes",
-	"label.all-publishers": "Todos Afiliados"
+	"label.all-publishers": "Todos Afiliados",
+	"message.no-results": "Resultados não encontrados."
 }

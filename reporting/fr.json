@@ -348,7 +348,7 @@
 	"message.columnselector.Some_columns_may_not_be_available": "Certaines colonnes ne sont pas disponibles car elles ne sont pas compatibles avec les colonnes déjà présentes dans ce rapport.",
 	"message.get-started-now": "Démarrez des maintenant.",
 	"message.need-to-run-a-report": "Besoin d'obtenir un rapport?",
-	"message.news-on-new-reporting-interface": "Lisez tous les nouvelles fonctionnalités disponibles avec la nouvelle interface.",
+	"message.news-on-new-reporting-interface": "Lisez ici tous ce qu'il y a à savoir concernant l'interface des rapports",
 	"message.no-data-click-view": "Aucune donnée? Cliquer \"Voir rapport\"",
 	"message.no-results-found": "Pas de résultats trouves. Essayer en changeant les dates puis relancer la demande de rapport.",
 	"message.or": "ou",
@@ -358,7 +358,7 @@
 	"message.update-api-token": "Mettre à jour son jeton pour les APIs",
 	"message.view-edit-build-report": "Vous pouvez voir et éditer les rapports existants ou construire de nouveaux rapports.",
 	"message.want-to-learn-more": "Vous désirez en savoir plus?",
-	"message.welcome": "Bienvenue sur la nouvelle interface pour les rapports",
+	"message.welcome": "Bienvenue dans l'interface des rapports",
 	"modal.add_filter": "Ajouter un filtre",
 	"modal.API_URL_copied_to_clipboard": "L'URL de l'API a bien été copiée.",
 	"modal.are_you_sure_to_delete_report": "Voulez-vous vraiment supprimer ce rapport?",
@@ -607,5 +607,6 @@
 	"title.Go to last page": "Allez à la dernière page",
 	"title.rows-per-page": "Lignes par page",
 	"label.all-advertisers": "Tous les annonceurs",
-	"label.all-publishers": "Tous les éditeurs"
+	"label.all-publishers": "Tous les éditeurs",
+	"message.no-results": "Pas de résultats trouves."
 }

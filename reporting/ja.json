@@ -346,7 +346,7 @@
 	"message.columnselector.Some_columns_may_not_be_available": "いくつかのカラムは、既に表示されているカラムとの関連性上ご利用いただけません。",
 	"message.get-started-now": "今すぐ利用する場合は：",
 	"message.need-to-run-a-report": "レポートを作成するには？",
-	"message.news-on-new-reporting-interface": "新しくなったレポートで出来ることをこちらからご確認ください",
+	"message.news-on-new-reporting-interface": "レポートメニューで出来ることをこちらからご確認ください",
 	"message.no-data-click-view": "データを表示するには「レポートの表示」をクリックしてください。",
 	"message.no-results-found": "データが存在しません。期間を変更して再度お試しください。",
 	"message.or": "もしくは",
@@ -355,8 +355,8 @@
 	"message.unauthorized.info": "レポートを表示する権限がありません。",
 	"message.update-api-token": "APIトークンの更新",
 	"message.view-edit-build-report": "既存のレポートを表示・編集することや、一からレポートを新規作成することが出来ます。",
-	"message.want-to-learn-more": "新レポートご利用の前に",
-	"message.welcome": "新レポートメニューへようこそ",
+	"message.want-to-learn-more": "レポートご利用の前に",
+	"message.welcome": "レポートメニューへようこそ",
 	"modal.add_filter": "フィルターの追加",
 	"modal.API_URL_copied_to_clipboard": "APIのURLがクリップボードにコピーされました。",
 	"modal.are_you_sure_to_delete_report": "レポートを削除してもよろしいですか？",
@@ -562,5 +562,6 @@
 	"title.rows-per-page": "ページ毎の表示件数",
 	"tooltip.download_csv_unavailable": "CSVダウンロードは現在ご利用いただけません。",
 	"label.all-advertisers": "全広告主",
-	"label.all-publishers": "全アフィリエイト"
+	"label.all-publishers": "全アフィリエイト",
+	"message.no-results": "データが存在しません。"
 }
