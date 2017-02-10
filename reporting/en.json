@@ -351,7 +351,7 @@
 	"message.columnselector.Some_columns_may_not_be_available": "Some columns may not be available because they are incompatible with other columns already in this report.",
 	"message.get-started-now": "Get Started Now:",
 	"message.need-to-run-a-report": "Need to run a report?",
-	"message.news-on-new-reporting-interface": "Read up on all the new things you can do with the reporting interface.",
+	"message.news-on-new-reporting-interface": "Read up on all the things you can do with the reporting interface.",
 	"message.no-data-click-view": "No data? Click \"View Report\"",
 	"message.no-results-found": "No results found. Try changing the date range and run the report again.",
 	"message.or": "or",
