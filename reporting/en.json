@@ -621,5 +621,11 @@
 	"whitelabel.columns.mid.name": "Campaign ID",
 	"label.all-advertisers": "All Advertisers",
 	"label.all-publishers": "All Publishers",
-	"message.no-results": "No results found."
+	"message.no-results": "No results found.",
+	"columns.categories.Financial": "Financial",
+	"columns.click-approval-rate.name": "Financial Conversion Rate",
+	"columns.apply-approval-rate.name": "Approval Rate",
+	"columns.application-status.name": "Application Status",
+	"columns.click-apply-rate.name": "App-to-Click Rate",
+	"columns.number-of-applications-declined.name": "# of Declines"
 }
