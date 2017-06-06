@@ -518,7 +518,7 @@
 	"schedule.connection-failed": "接続に失敗しました",
 	"schedule.connection-successfully": "接続に成功しました",
 	"schedule.daily": "毎日",
-	"schedule.data_ready_message": "昨日を含む抽出期間を選択の場合はデータ処理の関係上、送信時間をGMT0時から5時間程度空けて設定してください。",
+	"schedule.data_ready_message": "昨日を含む抽出期間を選択の場合、データ処理の関係上、配信時刻を午前5時（GMT）以降に設定してください。",
 	"schedule.day_in_month": "毎月特定の日",
 	"schedule.days_in_week": "毎週決まった曜日",
 	"schedule.deliver_to_email": "メールでレポートを配信する",
