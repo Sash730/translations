@@ -586,5 +586,6 @@
 	"title.rows-per-page": "Linhas por página:",
 	"label.all-advertisers": "Todos Anunciantes",
 	"label.all-publishers": "Todos Afiliados",
-	"message.no-results": "Resultados não encontrados."
+	"message.no-results": "Resultados não encontrados.",
+	"tooltip.schedule_time_warning": "Atenção:Para intervalos de data que incluem \"ontem\", é recomendado que você programe o envio para algumas horas após a Meia-noite GMT para permitir que o tenha o tempo de processamento."
 }
