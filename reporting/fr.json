@@ -608,5 +608,6 @@
 	"title.rows-per-page": "Lignes par page",
 	"label.all-advertisers": "Tous les annonceurs",
 	"label.all-publishers": "Tous les éditeurs",
-	"message.no-results": "Pas de résultats trouves."
+	"message.no-results": "Pas de résultats trouves.",
+	"tooltip.schedule_time_warning": "Veuillez noter: Pour les périodes de temps incluant la journée d'hier, il est recommandé de planifier un temps d'envoi quelques heures après minuit dans le but de donner le maximum de temps aux données d'être traitées."
 }
