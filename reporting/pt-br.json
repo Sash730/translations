@@ -542,7 +542,6 @@
 	"schedule.am": "AM",
 	"schedule.begin_date": "Data de início",
 	"schedule.daily": "Diário",
-	"schedule.data_ready_message": "Atenção:Para intervalos de data que incluem \"ontem\", é recomendado que você programe o envio para algumas horas após a Meia-noite GMT para permitir que o tenha o tempo de processamento.",
 	"schedule.day_in_month": "Dia específico do mês",
 	"schedule.days_in_week": "Dias específicos da semana",
 	"schedule.deliver_to_email": "Entregar relatório no Email",
