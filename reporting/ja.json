@@ -563,5 +563,6 @@
 	"tooltip.download_csv_unavailable": "CSVダウンロードは現在ご利用いただけません。",
 	"label.all-advertisers": "全広告主",
 	"label.all-publishers": "全アフィリエイト",
-	"message.no-results": "データが存在しません。"
+	"message.no-results": "データが存在しません。",
+	"tooltip.schedule_time_warning": "昨日を含む抽出期間を選択の場合、データ処理の関係上、配信時刻を午前5時（GMT）以降に設定してください。"
 }
