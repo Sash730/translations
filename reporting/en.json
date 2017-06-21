@@ -567,7 +567,6 @@
 	"schedule.connection-failed": "Connection failed.",
 	"schedule.connection-successfully": "Connected successfully.",
 	"schedule.daily": "Daily",
-	"schedule.data_ready_message": "Please note: For date ranges that include “yesterday,” it is recommended that you schedule your send time for a few hours after Midnight GMT in order to allow adequate time for data processing.",
 	"schedule.day_in_month": "Specific day in a month",
 	"schedule.days_in_week": "Specific days in week",
 	"schedule.deliver_to_email": "Deliver report to Email",
