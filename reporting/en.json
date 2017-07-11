@@ -409,7 +409,7 @@
 	"modal.report_description": "Report Description",
 	"modal.report_name": "Report Name",
 	"modal.report_name_required": "Report Name (required)",
-	"modal.report_summary_includes_information": "The report summary includes information such as report name, start date, end date, and any filters applied. If you want to see this information when you download your report then select \"include summary\".  If you don&#39;t select \"include summary\" then your download will include data only with no additional information about your report.",
+	"modal.report_summary_includes_information": "The report summary includes information such as report name, start date, end date, and any filters applied. If you want to see this information when you download your report then select \"include summary\".  If you don't select \"include summary\" then your download will include data only with no additional information about your report.",
 	"modal.save_changes": "Save Changes",
 	"modal.save_new_report": "Save New Report",
 	"modal.save_report": "Save Report",
