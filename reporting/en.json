@@ -641,5 +641,6 @@
 	"columns.click-apply-rate.description": "Calculated by the number of applications divided by the number of clicks.",
 	"columns.application-status.description": "The status of an application.",
 	"columns.apply-approval-rate.description": "This metric signifies the rate at which applications are approved. Calculated as the number of Approved applications divided by the number of applications",
-	"columns.click-approval-rate.description": "Calculated as the number of Approved applications divided by the number of clicks"
+	"columns.click-approval-rate.description": "Calculated as the number of Approved applications divided by the number of clicks",
+	"columns.number-of-applications-submitted.description": "The total number of applications."
 }
