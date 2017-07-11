@@ -635,7 +635,6 @@
 	"reports.link-success-report.name": "Link Success Report",
 	"reports.link-success-report.description": "The financial link success report allows you to see which creative elements are helping to drive applications and conversions.",
 	"columns.number-of-applications-approved.description": "The total number of approved applications.",
-	"columns.number-of-applications-submitted.desciption": "The total number of applications.",
 	"columns.number-of-applications-declined.description": "The total number of declined applications.",
 	"columns.click-apply-rate.description": "Calculated by the number of applications divided by the number of clicks.",
 	"columns.application-status.description": "The status of an application.",
