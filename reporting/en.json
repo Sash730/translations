@@ -628,11 +628,18 @@
 	"columns.application-status.name": "Application Status",
 	"columns.click-apply-rate.name": "App-to-Click Rate",
 	"columns.number-of-applications-declined.name": "# of Declines",
-	"columns.number-of-applications-approved.name": "# of Approvals",
+	"columns.number-of-applications-approved.name": "# of Accounts",
 	"columns.number-of-applications-submitted.name": "# of Applications",
 	"reports.groups.Financial": "Financial",
 	"reports.publisher-activity-report.name": "Publisher Activity Report",
 	"reports.publisher-activity-report.description": "This report allows you to see how publishers are doing and who is driving applications, approvals, or declines.",
 	"reports.link-success-report.name": "Link Success Report",
-	"reports.link-success-report.description": "The financial link success report allows you to see which creative elements are helping to drive applications and conversions."
+	"reports.link-success-report.description": "The financial link success report allows you to see which creative elements are helping to drive applications and conversions.",
+	"columns.number-of-applications-approved.description": "The total number of approved applications.",
+	"columns.number-of-applications-submitted.desciption": "The total number of applications.",
+	"columns.number-of-applications-declined.description": "The total number of declined applications.",
+	"columns.click-apply-rate.description": "Calculated by the number of applications divided by the number of clicks.",
+	"columns.application-status.description": "The status of an application.",
+	"columns.apply-approval-rate.description": "This metric signifies the rate at which applications are approved. Calculated as the number of Approved applications divided by the number of applications",
+	"columns.click-approval-rate.description": "Calculated as the number of Approved applications divided by the number of clicks"
 }
