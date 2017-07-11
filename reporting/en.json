@@ -330,7 +330,7 @@
 	"label.predefinedFilter.Germany Network": "Germany Network",
 	"label.predefinedFilter.Manual/Unassigned": "Manual/Unassigned",
 	"label.predefinedFilter.Merchandiser": "Merchandiser",
-	"label.predefinedFilter.Product Links": "Product Links",
+	"label.predefinedFilter.Product": "Product Links",
 	"label.predefinedFilter.Searchbox": "Searchbox",
 	"label.predefinedFilter.Targeted API Link": "Targeted API Link",
 	"label.predefinedFilter.Text": "Text",
@@ -567,7 +567,6 @@
 	"schedule.connection-failed": "Connection failed.",
 	"schedule.connection-successfully": "Connected successfully.",
 	"schedule.daily": "Daily",
-	"schedule.data_ready_message": "Please note: For date ranges that include “yesterday,” it is recommended that you schedule your send time for a few hours after Midnight GMT in order to allow adequate time for data processing.",
 	"schedule.day_in_month": "Specific day in a month",
 	"schedule.days_in_week": "Specific days in week",
 	"schedule.deliver_to_email": "Deliver report to Email",
@@ -643,4 +642,5 @@
 	"columns.apply-approval-rate.description": "This metric signifies the rate at which applications are approved. Calculated as the number of Approved applications divided by the number of applications",
 	"columns.click-approval-rate.description": "Calculated as the number of Approved applications divided by the number of clicks",
 	"columns.number-of-applications-submitted.description": "The total number of applications."
+	"reports.link-success-report.description": "The financial link success report allows you to see which creative elements are helping to drive applications and conversions."
 }
