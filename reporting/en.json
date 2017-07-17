@@ -640,5 +640,9 @@
 	"columns.application-status.description": "The status of an application.",
 	"columns.apply-approval-rate.description": "This metric signifies the rate at which applications are approved. Calculated as the number of Approved applications divided by the number of applications",
 	"columns.click-approval-rate.description": "Calculated as the number of Approved applications divided by the number of clicks",
-	"columns.number-of-applications-submitted.description": "The total number of applications."
+	"columns.number-of-applications-submitted.description": "The total number of applications.",
+	"reports.multi-touch-commissions-report.name": "Multi-touch Commissions Report",
+	"columns.commission-type.name": "Commission Type",
+	"columns.click-position.name": "Click Position",
+	"columns.click-date.name": "Click Date"
 }
