@@ -644,5 +644,7 @@
 	"reports.multi-touch-commissions-report.name": "Multi-touch Commissions Report",
 	"columns.commission-type.name": "Commission Type",
 	"columns.click-position.name": "Click Position",
-	"columns.click-date.name": "Click Date"
+	"columns.click-date.name": "Click Date",
+	"columns.transaction-year-month.name": "Transaction Year-Month",
+	"columns.process-year-month.name": "Process Year-Month"
 }
