@@ -645,6 +645,6 @@
 	"columns.commission-type.name": "Commission Type",
 	"columns.click-position.name": "Click Position",
 	"columns.click-date.name": "Click Date",
-	"columns.transaction-year-month.name": "Transaction Year-Month",
-	"columns.process-year-month.name": "Process Year-Month"
+	"columns.transaction-year-month.name": "Transaction Month and Year",
+	"columns.process-year-month.name": "Process Month and Year"
 }
