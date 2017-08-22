@@ -646,5 +646,9 @@
 	"columns.click-position.name": "Click Position",
 	"columns.click-date.name": "Click Date",
 	"columns.transaction-year-month.name": "Transaction Month and Year",
-	"columns.process-year-month.name": "Process Month and Year"
+	"columns.process-year-month.name": "Process Month and Year",
+	"columns.transaction-year-month.description": "The month and year when the transaction was sent to Rakuten LinkShare.",
+	"columns.process-year-month.description": "The month and year when a consumer completed a transaction.",
+	"reports.revenue-report-by-year-month.name": "Revenue Report by Month and Year",
+	"reports.revenue-report-by-year-month.description": "The Revenue Report by Month and Year allows you to view activity sorted by month and year."
 }
