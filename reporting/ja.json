@@ -567,7 +567,7 @@
 	"reports.revenue-report-by-year-month.name": "年月別レポート",
 	"reports.revenue-report-by-year-month.description": "販売額、オーダー数、CTRや報酬額等の年月レポートが抽出されます",
 	"columns.transaction-year-month.name": "購買日（年月）",
-	"columns.transaction-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月（GMT）",
+	"columns.transaction-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月",
 	"columns.process-year-month.name": "データ送信日（年月）",
-	"columns.process-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月（GMT）"
+	"columns.process-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月"
 }
