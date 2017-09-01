@@ -608,5 +608,9 @@
 	"label.all-advertisers": "Tous les annonceurs",
 	"label.all-publishers": "Tous les éditeurs",
 	"message.no-results": "Pas de résultats trouves.",
-	"tooltip.schedule_time_warning": "Veuillez noter: Pour les périodes de temps incluant la journée d'hier, il est recommandé de planifier un temps d'envoi quelques heures après minuit dans le but de donner le maximum de temps aux données d'être traitées."
+	"tooltip.schedule_time_warning": "Veuillez noter: Pour les périodes de temps incluant la journée d'hier, il est recommandé de planifier un temps d'envoi quelques heures après minuit dans le but de donner le maximum de temps aux données d'être traitées.",
+	"columns.otd-order-name-1.name": "Commander le Code Coupon",
+	"columns.otd-order-name-1.description": "Le code coupon appliqué à une commande, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
+	"columns.otd-trans-name-1.description": "Le code coupon appliqué à un élément, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
+	"columns.otd-trans-name-1.name": "Coupon Code article"
 }

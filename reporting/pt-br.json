@@ -586,5 +586,9 @@
 	"label.all-advertisers": "Todos Anunciantes",
 	"label.all-publishers": "Todos Afiliados",
 	"message.no-results": "Resultados não encontrados.",
-	"tooltip.schedule_time_warning": "Atenção:Para intervalos de data que incluem \"ontem\", é recomendado que você programe o envio para algumas horas após a Meia-noite GMT para permitir que o tenha o tempo de processamento."
+	"tooltip.schedule_time_warning": "Atenção:Para intervalos de data que incluem \"ontem\", é recomendado que você programe o envio para algumas horas após a Meia-noite GMT para permitir que o tenha o tempo de processamento.",
+	"columns.otd-order-name-1.name": "Código de cupom do pedido",
+	"columns.otd-order-name-1.description": "O código do cupom aplicado a um pedido, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas.",
+	"columns.otd-trans-name-1.name": "Código de cupom do item",
+	"columns.otd-trans-name-1.description": "O código do cupom aplicado a um item, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas."
 }

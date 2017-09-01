@@ -569,5 +569,9 @@
 	"columns.transaction-year-month.name": "購買日（年月）",
 	"columns.transaction-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月",
 	"columns.process-year-month.name": "データ送信日（年月）",
-	"columns.process-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月"
+	"columns.process-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月",
+	"columns.otd-trans-name-1.name": "商品のクーポン コード",
+	"columns.otd-trans-name-1.description": "クーポンコードは広告主によって明記されているように、注文に適用されました。複数のコードはコンマで区切られています。",
+	"columns.otd-order-name-1.name": "注文のクーポン コード",
+	"columns.otd-order-name-1.description": "クーポンコードは広告主によって明記されているように、商品に適用されました。複数のコードはコンマで区切られています。"
 }
