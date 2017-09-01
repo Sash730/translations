@@ -650,5 +650,9 @@
 	"columns.transaction-year-month.description": "The month and year when the transaction was sent to Rakuten LinkShare.",
 	"columns.process-year-month.description": "The month and year when a consumer completed a transaction.",
 	"reports.revenue-report-by-year-month.name": "Revenue Report by Month and Year",
-	"reports.revenue-report-by-year-month.description": "The Revenue Report by Month and Year allows you to view activity sorted by month and year."
+	"reports.revenue-report-by-year-month.description": "The Revenue Report by Month and Year allows you to view activity sorted by month and year.",
+	"columns.otd-order-name-1.name": "Order Coupon Code",
+	"columns.otd-order-name-1.description": "The coupon code applied to an order, as defined by the advertiser. Multiple codes are separated by commas.",
+	"columns.otd-trans-name-1.name": "Item Coupon Code",
+	"columns.otd-trans-name-1.description": "The coupon code applied to an item, as defined by the advertiser. Multiple codes are separated by commas."
 }
