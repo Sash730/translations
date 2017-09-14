@@ -654,5 +654,11 @@
 	"columns.otd-order-name-1.name": "Order Coupon Code",
 	"columns.otd-order-name-1.description": "The coupon code applied to an order, as defined by the advertiser. Multiple codes are separated by commas.",
 	"columns.otd-trans-name-1.name": "Item Coupon Code",
-	"columns.otd-trans-name-1.description": "The coupon code applied to an item, as defined by the advertiser. Multiple codes are separated by commas."
+	"columns.otd-trans-name-1.description": "The coupon code applied to an item, as defined by the advertiser. Multiple codes are separated by commas.",
+	"reports.multi-touch-commissioning-report.advertiser.description": "This report is for advertisers who have set up a first click commission offer with one or more publishers. It reports first and last click commissions, the click date, and which publishers are getting credited on first click commissions.",
+	"reports.multi-touch-commissioning-report.publisher.description": "This report is for publishers who accepted a first click offer from an advertiser. It reports first and last click commissions earned, the click dates, and the advertiser paying each commission.",
+	"reports.multi-touch-commissioning-report.name": "Multi-touch Commissioning Report - BETA",
+	"columns.commission-type.description": "This correlates with the advertiser's selection on the Create Offer form. The options are: % of Sale, $ per Action or Item, $ per Click, $ per 1,000 Impressions",
+	"columns.click-position.description": "This reflects the point in the timeline that is credited with the commission",
+	"columns.click-date.description": "This is the date that the first click or last click was recorded"
 }
