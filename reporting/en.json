@@ -627,7 +627,7 @@
 	"columns.application-status.name": "Application Status",
 	"columns.click-apply-rate.name": "App-to-Click Rate",
 	"columns.number-of-applications-declined.name": "# of Declines",
-	"columns.number-of-applications-approved.name": "# of Accounts",
+	"columns.number-of-applications-approved.name": "# of Approvals",
 	"columns.number-of-applications-submitted.name": "# of Applications",
 	"reports.groups.Financial": "Financial",
 	"reports.publisher-activity-report.name": "Publisher Activity Report",
