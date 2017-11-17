@@ -575,5 +575,7 @@
 	"columns.otd-order-name-1.name": "注文のクーポン コード",
 	"columns.otd-order-name-1.description": "クーポンコードは広告主によって明記されているように、注文に適用されました。複数のコードはコンマで区切られています。",
 	"columns.otd-order-value-1.description": "クーポンコードは広告主によって明記されているように、注文に適用されました。複数のコードはコンマで区切られています。",
-	"columns.otd-order-value-1.name": "注文のクーポン コード"
+	"columns.otd-order-value-1.name": "注文のクーポン コード",
+	"columns.otd-trans-value-1.name": "商品のクーポン コード",
+	"columns.otd-trans-value-1.description": "クーポンコードは広告主によって明記されているように、商品に適用されました。複数のコードはコンマで区切られています。"
 }
