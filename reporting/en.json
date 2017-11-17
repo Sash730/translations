@@ -660,5 +660,9 @@
 	"reports.multi-touch-commissioning-report.name": "Multi-touch Commissioning Report - BETA",
 	"columns.commission-type.description": "This correlates with the advertiser's selection on the Create Offer form. The options are: % of Sale, $ per Action or Item, $ per Click, $ per 1,000 Impressions",
 	"columns.click-position.description": "This reflects the point in the timeline that is credited with the commission",
-	"columns.click-date.description": "This is the date that the first click or last click was recorded"
+	"columns.click-date.description": "This is the date that the first click or last click was recorded",
+	"columns.otd-order-value-1.name": "Order Coupon Code(s)",
+	"columns.otd-order-value-1.description": "The coupon code applied to an order, as defined by the advertiser. Multiple codes are separated by commas.",
+	"columns.otd-trans-value-1.name": "Item Coupon Code(s)",
+	"columns.otd-trans-value-1.description": "The coupon code applied to an item, as defined by the advertiser. Multiple codes are separated by commas."
 }

@@ -590,5 +590,9 @@
 	"columns.otd-order-name-1.name": "Código de cupom do pedido",
 	"columns.otd-order-name-1.description": "O código do cupom aplicado a um pedido, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas.",
 	"columns.otd-trans-name-1.name": "Código de cupom do item",
-	"columns.otd-trans-name-1.description": "O código do cupom aplicado a um item, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas."
+	"columns.otd-trans-name-1.description": "O código do cupom aplicado a um item, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas.",
+	"columns.otd-order-value-1.name": "Código de cupom do pedido",
+	"columns.otd-order-value-1.description": "O código do cupom aplicado a um pedido, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas.",
+	"columns.otd-trans-value-1.description": "O código do cupom aplicado a um item, conforme definido pelo anunciante. Códigos múltiplos são separados por vírgulas.",
+	"columns.otd-trans-value-1.name": "Código de cupom do item"
 }

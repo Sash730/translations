@@ -612,5 +612,9 @@
 	"columns.otd-order-name-1.name": "Commander le Code Coupon",
 	"columns.otd-order-name-1.description": "Le code coupon appliqué à une commande, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
 	"columns.otd-trans-name-1.description": "Le code coupon appliqué à un élément, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
-	"columns.otd-trans-name-1.name": "Coupon Code article"
+	"columns.otd-trans-name-1.name": "Coupon Code article",
+	"columns.otd-order-value-1.name": "Commander le Code Coupon",
+	"columns.otd-order-value-1.description": "Le code coupon appliqué à une commande, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
+	"columns.otd-trans-value-1.name": "Coupon Code article",
+	"columns.otd-trans-value-1.description": "Le code coupon appliqué à un élément, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules."
 }
