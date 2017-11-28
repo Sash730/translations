@@ -664,5 +664,11 @@
 	"columns.otd-order-value-1.name": "Order Coupon Code(s)",
 	"columns.otd-order-value-1.description": "The coupon code applied to an order, as defined by the advertiser. Multiple codes are separated by commas.",
 	"columns.otd-trans-value-1.name": "Item Coupon Code(s)",
-	"columns.otd-trans-value-1.description": "The coupon code applied to an item, as defined by the advertiser. Multiple codes are separated by commas."
+	"columns.otd-trans-value-1.description": "The coupon code applied to an item, as defined by the advertiser. Multiple codes are separated by commas.",
+	"columns.otd-order-value-2.name": "Order Status",
+	"columns.otd-trans-value-3.name": "Product Category",
+	"columns.otd-trans-value-4.name": "Product Brand",
+	"columns.otd-order-value-2.description": "The status of an order, as defined by the advertiser ",
+	"columns.otd-trans-value-3.description": "The category of the product or service, as defined by the advertiser.",
+	"columns.otd-trans-value-4.description": "The brand associated with the product or service, as defined by the advertiser."
 }

@@ -616,5 +616,11 @@
 	"columns.otd-order-value-1.name": "Commander le Code Coupon",
 	"columns.otd-order-value-1.description": "Le code coupon appliqué à une commande, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
 	"columns.otd-trans-value-1.name": "Coupon Code article",
-	"columns.otd-trans-value-1.description": "Le code coupon appliqué à un élément, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules."
+	"columns.otd-trans-value-1.description": "Le code coupon appliqué à un élément, tel que défini par l'annonceur. Les codes multiples sont séparés par des virgules.",
+	"columns.otd-order-value-2.name": "statut de la commande",
+	"columns.otd-trans-value-3.name": "catégorie de produit",
+	"columns.otd-trans-value-4.name": "marque de produit",
+	"columns.otd-order-value-2.description": "Le statut d’une commande, telle que définie par l’annonceur.",
+	"columns.otd-trans-value-3.description": "la catégorie du produit ou du service, tel que défini par l’annonceur.",
+	"columns.otd-trans-value-4.description": "La marque associée au produit ou au service, telle que définie par l'annonceur."
 }
