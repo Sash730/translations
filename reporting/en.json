@@ -670,5 +670,6 @@
 	"columns.otd-trans-value-4.name": "Product Brand",
 	"columns.otd-order-value-2.description": "The status of an order, as defined by the advertiser ",
 	"columns.otd-trans-value-3.description": "The category of the product or service, as defined by the advertiser.",
-	"columns.otd-trans-value-4.description": "The brand associated with the product or service, as defined by the advertiser."
+	"columns.otd-trans-value-4.description": "The brand associated with the product or service, as defined by the advertiser.",
+	"reports.gross-sales-and-commissions-report.name": "Gross Sales and Commissions Report"
 }

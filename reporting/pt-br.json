@@ -600,5 +600,6 @@
 	"columns.otd-trans-value-4.name": "Marca do produto",
 	"columns.otd-order-value-2.description": "O status de um pedido, conforme definido pelo anunciante.",
 	"columns.otd-trans-value-3.description": "A categoria do produto ou serviço, conforme definido pelo anunciante.",
-	"columns.otd-trans-value-4.description": "A marca associada ao produto ou serviço, conforme definido pelo anunciante."
+	"columns.otd-trans-value-4.description": "A marca associada ao produto ou serviço, conforme definido pelo anunciante.",
+	"reports.gross-sales-and-commissions-report.name": "Aprovação Por Anunciante"
 }
