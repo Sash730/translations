@@ -81,7 +81,7 @@
 	"columns.currency.name": "Devise",
 	"columns.device.description": "L'appareil qu’un consommateur utilise quand il clique sur un de vos liens. Par exemple, un PC, une tablette, un IPhone.",
 	"columns.device.name": "Appareil",
-	"columns.earnings-per-click.description": "Le total des ventes génères divise par le nombre de clics. (Les valeurs sont multipliées par 100 pour le cote display)",
+	"columns.earnings-per-click.description": "Le nombre total de commissions généré divisé par le nombre de clics. (Les valeurs sont multipliées par 100 pour le cote display)",
 	"columns.earnings-per-click.name": "Gains par clics (EPC)",
 	"columns.event-estimated-commissions.name": "Commissions estimées.",
 	"columns.event-number-of-items.description": "Le nombre d'articles vendus, incluant les articles annules, dans une période temps que vous avez choisi.",

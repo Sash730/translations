@@ -83,7 +83,7 @@
 	"columns.currency.name": "Currency",
 	"columns.device.description": "The device a consumer used when clicking your link. For instance, a PC, a tablet, an iPhone.",
 	"columns.device.name": "Device",
-	"columns.earnings-per-click.description": "The total sales generated divided by the number of clicks. (Values are multiplied by 100 for display purposes)",
+	"columns.earnings-per-click.description": "The total commissions generated divided by the number of clicks. (Values are multiplied by 100 for display purposes)",
 	"columns.earnings-per-click.name": "Earnings Per Click (EPC)",
 	"columns.event-estimated-commissions.name": "Estimated Commissions",
 	"columns.event-number-of-items.description": "The number of items sold, including cancelled items, in the date range you select.",
