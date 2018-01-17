@@ -583,5 +583,6 @@
 	"columns.otd-trans-value-4.name": "ブランド",
 	"columns.otd-order-value-2.description": "広告主によって定義された注文状況",
 	"columns.otd-trans-value-3.description": "広告主によって定義された商品、およびサービスのカテゴリー",
-	"columns.otd-trans-value-4.description": "広告主によって定義された商品、およびサービスのブランド名"
+	"columns.otd-trans-value-4.description": "広告主によって定義された商品、およびサービスのブランド名",
+	"reports.gross-sales-and-commissions-report.name": "ECサイト別レポート（キャンセル前"
 }
