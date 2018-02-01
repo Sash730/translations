@@ -5,5 +5,6 @@
 	"button.build-a-new-report-from-scratch": "Construire un nouveau rapport.",
 	"columns.weekday.content.Sunday": "Dimanche",
 	"columns.weekday.content.Thursday": "Jeudi",
-	"ajax.successful": "Successful"
+	"ajax.successful": "Successful",
+	"columns.weekday.content.Tuesday": "Tuesday"
 }
