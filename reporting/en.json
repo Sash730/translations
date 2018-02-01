@@ -8,5 +8,6 @@
 	"ajax.successful": "Successful",
 	"columns.weekday.content.Sunday": "sunday",
 	"columns.weekday.content.Thursday": "thurthdayy",
-	"columns.weekday.content.Tuesday": "Tuesday"
+	"columns.weekday.content.Tuesday": "Tuesday",
+	"button.cancel": "cancel"
 }
