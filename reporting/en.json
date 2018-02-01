@@ -6,5 +6,6 @@
 	"carousel.show_less": "Show Less",
 	"carousel.show_more": "Show More",
 	"ajax.successful": "Successful",
-	"columns.weekday.content.Sunday": "sunday"
+	"columns.weekday.content.Sunday": "sunday",
+	"columns.weekday.content.Thursday": "thurthdayy"
 }
