@@ -9,5 +9,6 @@
 	"button.cancel": "cancel123",
 	"ajax.quit": "Quit",
 	"border": " border",
-	"border.size": "border.size"
+	"border.size": "border.size",
+	"width.container": "Está levando muito"
 }
