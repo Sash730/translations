@@ -8,5 +8,6 @@
 	"ajax.successful": "Successful",
 	"button.cancel": "cancel123",
 	"ajax.quit": "Quit",
-	"border": " border"
+	"border": " border",
+	"border.size": "border.size"
 }
