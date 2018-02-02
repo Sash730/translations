@@ -13,5 +13,6 @@
 	"columns.weekday.content.Wednesday": "Wednesday123",
 	"ajax.quit": "Quit",
 	"border": "Border",
-	"border.size": "Border size"
+	"border.size": "Border size",
+	"width.container": "Your request was successful."
 }
