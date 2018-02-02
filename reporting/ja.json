@@ -7,5 +7,6 @@
 	"button.delete_report": "レポートの削除",
 	"columns.weekday.content.Tuesday": "火曜日",
 	"ajax.successful": "Successful",
-	"columns.weekday.content.Wednesday": "Wednesday123"
+	"columns.weekday.content.Wednesday": "Wednesday123",
+	"ajax.quit": "Quite"
 }
