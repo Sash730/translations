@@ -671,5 +671,6 @@
 	"columns.otd-order-value-2.description": "The status of an order, as defined by the advertiser ",
 	"columns.otd-trans-value-3.description": "The category of the product or service, as defined by the advertiser.",
 	"columns.otd-trans-value-4.description": "The brand associated with the product or service, as defined by the advertiser.",
-	"reports.gross-sales-and-commissions-report.name": "Gross Sales and Commissions Report"
+	"reports.gross-sales-and-commissions-report.name": "Gross Sales and Commissions Report",
+	"reports.gross-sales-and-commissions-report.description": "The Gross Sales and Commissions Report allows you to easily compare your Sales and Total Commission together with the Gross Sales and Gross Total Commissions for each advertiser. Gross Sales and Gross Total Commissions do not take cancellations into account."
 }
