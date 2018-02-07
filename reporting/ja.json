@@ -584,5 +584,6 @@
 	"columns.otd-order-value-2.description": "広告主によって定義された注文状況",
 	"columns.otd-trans-value-3.description": "広告主によって定義された商品、およびサービスのカテゴリー",
 	"columns.otd-trans-value-4.description": "広告主によって定義された商品、およびサービスのブランド名",
-	"reports.gross-sales-and-commissions-report.name": "ECサイト別レポート（キャンセル前"
+	"reports.gross-sales-and-commissions-report.name": "ECサイト別レポート（キャンセル前",
+	"reports.gross-sales-and-commissions-report.description": "キャンセル前後の販売額・報酬額を一つのレポート上で確認できます"
 }
