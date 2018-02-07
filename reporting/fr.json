@@ -623,5 +623,6 @@
 	"columns.otd-order-value-2.description": "Le statut d’une commande, telle que définie par l’annonceur.",
 	"columns.otd-trans-value-3.description": "la catégorie du produit ou du service, tel que défini par l’annonceur.",
 	"columns.otd-trans-value-4.description": "La marque associée au produit ou au service, telle que définie par l'annonceur.",
-	"reports.gross-sales-and-commissions-report.name": "Rapport sur les ventes et commissions"
+	"reports.gross-sales-and-commissions-report.name": "Rapport sur les ventes et commissions",
+	"reports.gross-sales-and-commissions-report.description": "Le rapport des ventes brutes et commissions vous permet de comparer facilement vos ventes et commissions totales avec les ventes et les commissions brutes totales pour chaque annonceur. Le chiffre d'affaires brut et les commissions brutes totales ne tiennent pas compte des annulations."
 }
