@@ -672,5 +672,11 @@
 	"columns.otd-trans-value-3.description": "The category of the product or service, as defined by the advertiser.",
 	"columns.otd-trans-value-4.description": "The brand associated with the product or service, as defined by the advertiser.",
 	"reports.gross-sales-and-commissions-report.name": "Gross Sales and Commissions Report",
-	"reports.gross-sales-and-commissions-report.description": "The Gross Sales and Commissions Report allows you to easily compare your Sales and Total Commission together with the Gross Sales and Gross Total Commissions for each advertiser. Gross Sales and Gross Total Commissions do not take cancellations into account."
+	"reports.gross-sales-and-commissions-report.description": "The Gross Sales and Commissions Report allows you to easily compare your Sales and Total Commission together with the Gross Sales and Gross Total Commissions for each advertiser. Gross Sales and Gross Total Commissions do not take cancellations into account.",
+	"columns.otd-order-value-8.name": "Booking Consumed Date",
+	"columns.otd-order-value-8.description": "Often associated with the Travel vertical, this date is provided by the advertiser indicating when a reservation was fulfilled.",
+	"columns.otd-order-value-9.name": "Order Ship Date",
+	"columns.otd-order-value-9.description": "Advertiser defined value that would hold a date. Represents when the item is shipped (or expected to ship).",
+	"columns.otd-order-value-23.name": "Ship-To Country",
+	"columns.otd-order-value-23.description": "The country, provided by the advertiser, for where the order will be shipped."
 }
