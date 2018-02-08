@@ -602,5 +602,11 @@
 	"columns.otd-trans-value-3.description": "A categoria do produto ou serviço, conforme definido pelo anunciante.",
 	"columns.otd-trans-value-4.description": "A marca associada ao produto ou serviço, conforme definido pelo anunciante.",
 	"reports.gross-sales-and-commissions-report.name": "Aprovação Por Anunciante",
-	"reports.gross-sales-and-commissions-report.description": "O Relatório de Vendas Brutas e Comissões permite que você compare facilmente suas Vendas e Comissões Totais junto com as Vendas Brutas e as Comissões Brutas Totais para cada anunciante. As Vendas Brutas e as Comissões Brutas Totais não levam em conta os cancelamentos."
+	"reports.gross-sales-and-commissions-report.description": "O Relatório de Vendas Brutas e Comissões permite que você compare facilmente suas Vendas e Comissões Totais junto com as Vendas Brutas e as Comissões Brutas Totais para cada anunciante. As Vendas Brutas e as Comissões Brutas Totais não levam em conta os cancelamentos.",
+	"columns.otd-order-value-8.name": "Reserva da Data Consumida",
+	"columns.otd-order-value-8.description": "Muitas vezes associado ao Travel vertical, esta data é fornecida pelo anunciante indicando quando uma reserva foi cumprida.",
+	"columns.otd-order-value-9.name": "Data de envio do pedido",
+	"columns.otd-order-value-9.description": "Valor definido pelo anunciante que manteria uma data. Representa quando o item é enviado (ou deverá ser enviado).",
+	"columns.otd-order-value-23.name": "Envio para o País",
+	"columns.otd-order-value-23.description": "O país, fornecido pelo anunciante, para onde o pedido será enviado."
 }
