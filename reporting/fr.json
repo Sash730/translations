@@ -630,5 +630,8 @@
 	"columns.otd-order-value-9.name": "Date d'expédition de la commande",
 	"columns.otd-order-value-9.description": "Valeur définie par l'annonceur qui comprendrait une date. Cela représente lorsque l'article est expédié (ou prévu pour l'expédition).",
 	"columns.otd-order-value-23.name": "Pays d'expédition",
-	"columns.otd-order-value-23.description": "Le pays, fourni par l'annonceur, d'où sera expédiée la commande."
+	"columns.otd-order-value-23.description": "Le pays, fourni par l'annonceur, d'où sera expédiée la commande.",
+	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "Code promo non-commissionable - Commande",
+	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "Code promo non-commissionable - Article",
+	"columns.non-commissionable-reason.content.Inactive Coupon Code": "Code promo inactif"
 }
