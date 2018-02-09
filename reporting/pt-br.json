@@ -608,5 +608,8 @@
 	"columns.otd-order-value-9.name": "Data de envio do pedido",
 	"columns.otd-order-value-9.description": "Valor definido pelo anunciante que manteria uma data. Representa quando o item é enviado (ou deverá ser enviado).",
 	"columns.otd-order-value-23.name": "Envio para o País",
-	"columns.otd-order-value-23.description": "O país, fornecido pelo anunciante, para onde o pedido será enviado."
+	"columns.otd-order-value-23.description": "O país, fornecido pelo anunciante, para onde o pedido será enviado.",
+	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "Código de cupom não comissionável - Pedido",
+	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "Código de cupom não comissionável - Item",
+	"columns.non-commissionable-reason.content.Inactive Coupon Code": "Código de cupom inativo"
 }
