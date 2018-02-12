@@ -1,3 +1,19 @@
 {
-	"weight.column": "Weight"
+	"ajax.fail": "12345",
+	"ajax.quit": "12345",
+	"ajax.successful": "12345",
+	"ajax.timeout": "12345",
+	"border": "12345",
+	"border.size": "122334",
+	"button.apply": "112334",
+	"button.build-a-new-report-from-scratch": "121223",
+	"button.cancel": "q",
+	"button.delete_report": "ewq",
+	"carousel.show_more": "eeew f fs",
+	"columns.weekday.content.Sunday": "gfeav",
+	"columns.weekday.content.Thursday": "vasw",
+	"columns.weekday.content.Tuesday": "svzadfvzaav",
+	"columns.weekday.content.Wednesday": "dcvads",
+	"weight.column": "Weight",
+	"width.container": "svrgraegte"
 }
