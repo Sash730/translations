@@ -1,18 +1,1 @@
-{
-	"button.apply": "Apply199999",
-	"border": "Border",
-	"border.size": "Border size",
-	"button.build-a-new-report-from-scratch": "Build a new report from scratch",
-	"button.cancel": "cancel123",
-	"ajax.timeout": "It is taking longer to complete this action. Please try again.",
-	"ajax.quit": "Quit12345",
-	"carousel.show_less": "Show Less",
-	"carousel.show_more": "Show More",
-	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
-	"ajax.successful": "Successful99999",
-	"columns.weekday.content.Sunday": "sunday",
-	"columns.weekday.content.Thursday": "thurthdayy",
-	"columns.weekday.content.Tuesday": "Tuesday",
-	"columns.weekday.content.Wednesday": "Wednesday123",
-	"width.container": "Your request was successful."
-}
+{}
