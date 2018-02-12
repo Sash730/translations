@@ -685,5 +685,7 @@
 	"columns.event-transaction-id.description": "A unique ID assigned to a transaction.",
 	"columns.event-transaction-id.name": "Transaction ID",
 	"columns.event-quantity.name": "Quantity",
-	"columns.event-quantity.description": "Similar to the \"# of Items\" column. Quantity is the number of items sold, excluding cancelled items."
+	"columns.event-quantity.description": "Similar to the \"# of Items\" column. Quantity is the number of items sold, excluding cancelled items.",
+	"columns.event-estimated-commissions.description": "This column is an estimated commission amount for transactions reported in near-real time. Near-real time transactions may occur but may be finalized after an item is shipped or the service is rendered.",
+	"label.report_contains_event_columns": "This report contains Event columns which should be used only to estimate commissions and sales."
 }
