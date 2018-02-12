@@ -611,5 +611,7 @@
 	"columns.otd-order-value-23.description": "O país, fornecido pelo anunciante, para onde o pedido será enviado.",
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "Código de cupom não comissionável - Pedido",
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "Código de cupom não comissionável - Item",
-	"columns.non-commissionable-reason.content.Inactive Coupon Code": "Código de cupom inativo"
+	"columns.non-commissionable-reason.content.Inactive Coupon Code": "Código de cupom inativo",
+	"columns.event-transaction-id.name": "ID da Transação",
+	"columns.event-transaction-id.description": "O número de ID único que a Rakuten Marketing atribui a cada transação que nos é reportada."
 }
