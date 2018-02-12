@@ -594,5 +594,7 @@
 	"columns.otd-order-value-23.description": "広告主様より送信いただいた、商品の配達先（国）情報",
 	"columns.non-commissionable-reason.content.Inactive Coupon Code": "無効なクーポンコード",
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "クーポンコードの対象の商品がありません",
-	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "クーポンコードの対象の注文がありません"
+	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "クーポンコードの対象の注文がありません",
+	"columns.event-transaction-id.name": "トランザクションID",
+	"columns.event-transaction-id.description": "それぞれのトランザクションごとに自動的につけられるユニークなID"
 }
