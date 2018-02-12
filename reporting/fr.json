@@ -635,5 +635,7 @@
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "Code promo non-commissionable - Article",
 	"columns.non-commissionable-reason.content.Inactive Coupon Code": "Code promo inactif",
 	"columns.event-transaction-id.description": "L'identifiant unique de Rakuten Linkshare assigne a chaque transaction nous étant rapporte.",
-	"columns.event-transaction-id.name": "ID de la transaction"
+	"columns.event-transaction-id.name": "ID de la transaction",
+	"columns.event-quantity.name": "Quantité",
+	"columns.event-quantity.description": "Equivalent à la colonne \"Nombre d'articles\". La quantité est le nombre d'articles vendus, en excluant les articles annulés."
 }
