@@ -596,5 +596,7 @@
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "クーポンコードの対象の商品がありません",
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "クーポンコードの対象の注文がありません",
 	"columns.event-transaction-id.name": "トランザクションID",
-	"columns.event-transaction-id.description": "それぞれのトランザクションごとに自動的につけられるユニークなID"
+	"columns.event-transaction-id.description": "それぞれのトランザクションごとに自動的につけられるユニークなID",
+	"columns.event-quantity.name": "数量",
+	"columns.event-quantity.description": "「成果データのアイテム数」と「キャンセルデータのアイテム数」の差　例）成果データ：10アイテム、キャンセルデータ：5アイテムの場合は「５」と表示されます。"
 }
