@@ -1,16 +1,16 @@
 {
-	"ajax.fail": "Veuillez nous excuser car nous ne pouvons traiter votre requête. Veuillez ressayer plus tard.",
+	"button.apply": "Appliquer23333",
+	"columns.weekday.content.Wednesday": "Wednesday123",
+	"border.size": "border.size",
 	"ajax.timeout": "Cela prend plus longtemps pour compléter cette action. Veuillez ressayer plus tard.",
-	"button.apply": "Appliquer",
 	"button.build-a-new-report-from-scratch": "Construire un nouveau rapport.",
 	"columns.weekday.content.Sunday": "Dimanche",
-	"columns.weekday.content.Thursday": "Jeudi",
+	"width.container": "Está levando muito",
+	"border": "border",
+	"ajax.quit": "Quit12",
+	"carousel.show_more": "show_more",
 	"ajax.successful": "Successful",
 	"columns.weekday.content.Tuesday": "Tuesday",
-	"columns.weekday.content.Wednesday": "Wednesday123",
-	"carousel.show_more": "show_more",
-	"ajax.quit": "Quit12",
-	"border": "border",
-	"border.size": "border.size",
-	"width.container": "Está levando muito"
+	"ajax.fail": "Veuillez nous excuser car nous ne pouvons traiter votre requête. Veuillez ressayer plus tard.",
+	"columns.weekday.content.Thursday": "Jeudi"
 }
