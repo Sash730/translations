@@ -1,18 +1,18 @@
 {
 	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
-	"width.container": "Your request was successful.",
+	"columns.weekday.content.Thursday": "thurthdayy",
 	"button.apply": "Apply",
 	"button.build-a-new-report-from-scratch": "Build a new report from scratch",
 	"carousel.show_less": "Show Less",
 	"carousel.show_more": "Show More",
 	"ajax.successful": "Successful",
 	"columns.weekday.content.Sunday": "sunday",
-	"ajax.timeout": "It is taking longer to complete this action. Please try again.",
+	"width.container": "Your request was successful.",
 	"columns.weekday.content.Tuesday": "Tuesday",
 	"button.cancel": "cancel123",
 	"columns.weekday.content.Wednesday": "Wednesday123",
-	"ajax.quit": "Quit",
+	"ajax.quit": "Quit12345",
 	"border": "Border",
 	"border.size": "Border size",
-	"columns.weekday.content.Thursday": "thurthdayy"
+	"ajax.timeout": "It is taking longer to complete this action. Please try again."
 }
