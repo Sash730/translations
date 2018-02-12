@@ -682,6 +682,6 @@
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Order": "Non-Commissionable Coupon Code - Order",
 	"columns.non-commissionable-reason.content.Non-Commissionable Coupon Code - Item": "Non-Commissionable Coupon Code - Item",
 	"columns.non-commissionable-reason.content.Inactive Coupon Code": "Inactive Coupon Code",
-	"columns.event.transaction-id.description": "A unique ID assigned to a transaction.",
+	"columns.event-transaction-id.description": "A unique ID assigned to a transaction.",
 	"columns.event-transaction-id.name": "Transaction ID"
 }
