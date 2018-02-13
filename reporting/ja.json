@@ -1,15 +1,16 @@
 {
 	"ajax.fail": "レポートを表示できません。時間が経ってから再度お試しください。",
+	"ajax.quit": "Quit",
+	"ajax.successful": "Successful",
 	"ajax.timeout": "レポートの取得に時間がかかっています。時間をおいてから再度お試しください。",
+	"border": "border",
+	"border.size": "border.size",
 	"button.apply": "決定",
 	"button.build-a-new-report-from-scratch": "レポートを新規作成する",
 	"button.cancel": "キャンセル",
 	"button.delete_report": "レポートの削除",
+	"carousel.show_more": "asdfg",
 	"columns.weekday.content.Tuesday": "火曜日",
-	"ajax.successful": "Successful",
 	"columns.weekday.content.Wednesday": "Wednesday123",
-	"ajax.quit": "Quit",
-	"border": "border",
-	"border.size": "border.size",
 	"width.container": "Está levando muito"
 }
