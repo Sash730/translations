@@ -1,14 +1,15 @@
 {
 	"ajax.fail": "Desculpe, nós não podemos completar essa solicitação neste momento. Por favor, tente novamente em breve.",
-	"ajax.timeout": "Está levando muito tempo para completar essa ação. Por favor tente novamente. ",
-	"button.apply": "Aplicar",
-	"button.build-a-new-report-from-scratch": "Construa um novo relatório do zero",
-	"columns.weekday.content.Tuesday": "Terça",
-	"columns.weekday.content.Wednesday": "QuartaWednesday123",
-	"ajax.successful": "Successful",
-	"button.cancel": "cancel123",
 	"ajax.quit": "Quit",
+	"ajax.successful": "Successful",
+	"ajax.timeout": "Está levando muito tempo para completar essa ação. Por favor tente novamente. ",
 	"border": " border",
 	"border.size": "border.size",
+	"button.apply": "Aplicar",
+	"button.build-a-new-report-from-scratch": "Construa um novo relatório do zero",
+	"button.cancel": "cancel123",
+	"columns.weekday.content.Tuesday": "Terça",
+	"columns.weekday.content.Wednesday": "QuartaWednesday123",
+	"weight.column": "asdfghgfj",
 	"width.container": "Está levando muito"
 }
