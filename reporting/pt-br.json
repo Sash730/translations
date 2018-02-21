@@ -1,9 +1,9 @@
 {
 	"ajax.fail": "Desculpe, nós não podemos completar essa solicitação neste momento. Por favor, tente novamente em breve.",
-	"ajax.quit": "Quit",
+	"ajax.quit": "",
 	"ajax.successful": "Successful",
 	"ajax.timeout": "Está levando muito tempo para completar essa ação. Por favor tente novamente. ",
-	"border": " border",
+	"border": "",
 	"border.size": "border.size",
 	"button.apply": "Aplicar",
 	"button.build-a-new-report-from-scratch": "Construa um novo relatório do zero",
