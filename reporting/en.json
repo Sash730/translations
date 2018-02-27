@@ -1,6 +1,5 @@
 {
 	"Click on the button below to unsubscribe from Scheduled Reports.": "Click on the button below to unsubscribe from Scheduled Reports.",
-	"Scheduled Report \"%s\" Unsuccessful": "Scheduled Report \"%s\" Unsuccessful",
 	"Thank you. You have unsubscribed from receiving Scheduled Reports.": "Thank you. You have unsubscribed from receiving Scheduled Reports.",
 	"You have already unsubscribed from receiving Scheduled Reports.": "You have already unsubscribed from receiving Scheduled Reports.",
 	"agency.get_api_disabled": "Get API is not available for group reports",
@@ -689,6 +688,7 @@
 	"schedule.weekdays.Tue": "Tue",
 	"schedule.weekdays.Wed": "Wed",
 	"scheduled_report.mail.subject.success": "Scheduled Report \"%s\" Complete",
+	"scheduled_report.mail.subject.unsuccessful": "Scheduled Report \"%s\" Unsuccessful",
 	"scheduled_report.recurrence.daily": "Daily",
 	"scheduled_report.recurrence.monthly": "On every %s of the month",
 	"scheduled_report.recurrence.weekly": "Every %s",

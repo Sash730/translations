@@ -1,5 +1,4 @@
 {
-	"Scheduled Report \"%s\" Unsuccessful": "定期レポート「%s」不成功",
 	"ajax.fail": "レポートを表示できません。時間が経ってから再度お試しください。",
 	"ajax.timeout": "レポートの取得に時間がかかっています。時間をおいてから再度お試しください。",
 	"button.apply": "決定",
@@ -596,6 +595,7 @@
 	"schedule.weekdays.Tue": "火",
 	"schedule.weekdays.Wed": "水",
 	"scheduled_report.mail.subject.success": "スケジュールレポート \"%s\"の配信完了",
+	"scheduled_report.mail.subject.unsuccessful": "定期レポート「%s」不成功",
 	"scheduled_report.recurrence.daily": "毎日",
 	"scheduled_report.recurrence.monthly": "毎月 %s 日",
 	"scheduled_report.recurrence.weekly": "毎週 %s 曜日",
