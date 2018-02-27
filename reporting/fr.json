@@ -636,6 +636,7 @@
 	"schedule.weekdays.Tue": "Mar.",
 	"schedule.weekdays.Wed": "Mer.",
 	"scheduled_report.mail.subject.success": "Rapports planifiés \"%s\" terminés",
+	"scheduled_report.mail.subject.unsuccessful": "Rapport planifié «%s» a échoué.",
 	"scheduled_report.recurrence.daily": "Journalier",
 	"scheduled_report.recurrence.monthly": "Sur chaque %s du mois",
 	"scheduled_report.recurrence.weekly": "Tous les %s",

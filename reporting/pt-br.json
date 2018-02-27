@@ -611,6 +611,7 @@
 	"schedule.weekdays.Tue": "Ter",
 	"schedule.weekdays.Wed": "Qua",
 	"scheduled_report.mail.subject.success": "Relatório agendado %s Completo",
+	"scheduled_report.mail.subject.unsuccessful": "O relatório \"%s\" agendado não foi bem sucedido",
 	"scheduled_report.recurrence.daily": "Diário",
 	"scheduled_report.recurrence.monthly": "Em cada %s do mês",
 	"scheduled_report.recurrence.weekly": "Cada %s",

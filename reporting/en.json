@@ -688,6 +688,7 @@
 	"schedule.weekdays.Tue": "Tue",
 	"schedule.weekdays.Wed": "Wed",
 	"scheduled_report.mail.subject.success": "Scheduled Report \"%s\" Complete",
+	"scheduled_report.mail.subject.unsuccessful": "Scheduled Report \"%s\" Unsuccessful",
 	"scheduled_report.recurrence.daily": "Daily",
 	"scheduled_report.recurrence.monthly": "On every %s of the month",
 	"scheduled_report.recurrence.weekly": "Every %s",
