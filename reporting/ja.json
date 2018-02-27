@@ -1,4 +1,5 @@
 {
+	"Scheduled Report \"%s\" Unsuccessful": "定期レポート「%s」不成功",
 	"ajax.fail": "レポートを表示できません。時間が経ってから再度お試しください。",
 	"ajax.timeout": "レポートの取得に時間がかかっています。時間をおいてから再度お試しください。",
 	"button.apply": "決定",
