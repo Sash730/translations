@@ -1,4 +1,5 @@
 {
+	"Scheduled Report \"%s\" Unsuccessful": "O relatório \"%s\" agendado não foi bem sucedido ",
 	"ajax.fail": "Desculpe, nós não podemos completar essa solicitação neste momento. Por favor, tente novamente em breve.",
 	"ajax.timeout": "Está levando muito tempo para completar essa ação. Por favor tente novamente. ",
 	"button.apply": "Aplicar",
