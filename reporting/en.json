@@ -145,6 +145,7 @@
 	"columns.link-type.content.Searchbox": "Searchbox",
 	"columns.link-type.content.Text": "Text",
 	"columns.link-type.content.Unknown": "Unknown",
+	"columns.link-type.content.curate-product-link": "Curate Product Link",
 	"columns.link-type.description": "The creative type: Banner, Text, Flex Link, and so on.",
 	"columns.link-type.name": "Link Type",
 	"columns.match-date.description": "The date that Rakuten LinkShare matched the referring Signature information to a transaction.",
