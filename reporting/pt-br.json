@@ -122,7 +122,6 @@
 	"columns.link-type.content.Searchbox": "Campo de busca",
 	"columns.link-type.content.Text": "Texto",
 	"columns.link-type.content.Unknown": "Desconhecido",
-	"columns.link-type.content.curate-product-link": "Link do produto",
 	"columns.link-type.description": "O tipo de criativo: Banner, texto, Flex Link, e assim por diante.",
 	"columns.link-type.name": "Tipo de Link",
 	"columns.match-date.description": "A data em que Rakuten LinkShare combinou a informação de assinatura referente a uma transação.",
