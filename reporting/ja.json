@@ -123,7 +123,6 @@
 	"columns.link-type.content.Searchbox": "サーチボックス",
 	"columns.link-type.content.Text": "テキスト",
 	"columns.link-type.content.Unknown": "Unknown",
-	"columns.link-type.content.curate-product-link": "キュレート商品リンク",
 	"columns.link-type.description": "バナー、テキストなどリンクの種類",
 	"columns.link-type.name": "リンク種類",
 	"columns.match-date.description": "U1が付与された日付",
