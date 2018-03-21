@@ -112,6 +112,7 @@
 	"columns.link-name.description": "O nome dado a um link.",
 	"columns.link-name.name": "Nome do Link",
 	"columns.link-type.content.Banner": "Baner",
+	"columns.link-type.content.Curate Product Link": "Link do produto",
 	"columns.link-type.content.DRM": "DRM",
 	"columns.link-type.content.Deep Links": "Deep Links",
 	"columns.link-type.content.Email": "Email",
