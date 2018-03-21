@@ -135,6 +135,7 @@
 	"columns.link-name.description": "The name assigned to a link by the advertiser.",
 	"columns.link-name.name": "Link Name",
 	"columns.link-type.content.Banner": "Banner",
+	"columns.link-type.content.Curate Product Link": "Curate Product Link",
 	"columns.link-type.content.DRM": "DRM",
 	"columns.link-type.content.Deep Links": "Deep Links",
 	"columns.link-type.content.Email": "Email",

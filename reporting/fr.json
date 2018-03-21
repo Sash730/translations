@@ -115,6 +115,7 @@
 	"columns.link-name.description": "Le nom que vous avez donné au lien",
 	"columns.link-name.name": "Nom du lien",
 	"columns.link-type.content.Banner": "Bannière",
+	"columns.link-type.content.Curate Product Link": "Lien produit pour \"Curate\"",
 	"columns.link-type.content.DRM": "DRM",
 	"columns.link-type.content.Deep Links": "\"Deep link\"",
 	"columns.link-type.content.Email": "Email",
