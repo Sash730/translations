@@ -113,6 +113,7 @@
 	"columns.link-name.description": "管理画面でそれぞれのリンクに設定した名前",
 	"columns.link-name.name": "リンク名",
 	"columns.link-type.content.Banner": "バナー",
+	"columns.link-type.content.Curate Product Link": "キュレート商品リンク",
 	"columns.link-type.content.DRM": "ダイナミックリンク",
 	"columns.link-type.content.Deep Links": "リンクビルダー",
 	"columns.link-type.content.Email": "Eメール",
