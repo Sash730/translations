@@ -668,7 +668,7 @@
 	"schedule.email_address": "Email Address",
 	"schedule.enter_email_address": "Enter email address separated by spaces.",
 	"schedule.enter_valid_emails": "Please enter valid email address",
-	"schedule.enter_valid_ftp_location ": "Please enter a valid FTP URL. A valid FTP URL here may contain sub-directories, but may not include ftp:// prefix nor port numbers.",
+	"schedule.enter_valid_ftp_location": "Please enter a valid FTP URL. A valid FTP URL here may contain sub-directories, but may not include ftp:// prefix nor port numbers.",
 	"schedule.enter_valid_ftp_password": "Please enter a valid password",
 	"schedule.enter_valid_ftp_user": "Please enter a valid username",
 	"schedule.gmt": "GMT",
