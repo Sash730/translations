@@ -626,6 +626,7 @@
 	"schedule.enter_valid_emails": "Veuillez entrer une adresse email valide",
 	"schedule.enter_valid_ftp_location": "Veuillez entrer une URL valide pour cet FTP. Une URL FTP valide peut contenir des sous-répertoires, mais ne peut inclure le préfixe ftp:// ni les numéros de port.",
 	"schedule.enter_valid_ftp_password": "Veuillez entrer un mot de passe valide",
+	"schedule.enter_valid_ftp_port": "Le numéro de port doit être un nombre entier.",
 	"schedule.enter_valid_ftp_user": "Veuillez entrer un nom d'utilisateur valide",
 	"schedule.gmt": "GMT",
 	"schedule.no_end": "Pas de fin",

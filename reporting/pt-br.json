@@ -593,6 +593,7 @@
 	"schedule.enter_valid_emails": "Por favor preencha com um email válido",
 	"schedule.enter_valid_ftp_location": "Digite um URL de FTP válido. Um URL de FTP válido aqui pode conter subdiretórios, mas não pode incluir o prefixo ftp://. nem números de porta.",
 	"schedule.enter_valid_ftp_password": "Digite uma senha válida",
+	"schedule.enter_valid_ftp_port": "A porta deve ser um número.",
 	"schedule.enter_valid_ftp_user": "Digite um nome de usuário válido",
 	"schedule.gmt": "GMT",
 	"schedule.no_end": "Sem fim",
