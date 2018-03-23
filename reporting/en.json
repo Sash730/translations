@@ -670,6 +670,7 @@
 	"schedule.enter_valid_emails": "Please enter valid email address",
 	"schedule.enter_valid_ftp_location": "Please enter a valid FTP URL. A valid FTP URL here may contain sub-directories, but may not include ftp:// prefix nor port numbers.",
 	"schedule.enter_valid_ftp_password": "Please enter a valid password",
+	"schedule.enter_valid_ftp_port": "Port must be a number.",
 	"schedule.enter_valid_ftp_user": "Please enter a valid username",
 	"schedule.gmt": "GMT",
 	"schedule.no_end": "No End",
