@@ -585,6 +585,7 @@
 	"schedule.enter_valid_emails": "有効なEメールアドレスを入力してください。",
 	"schedule.enter_valid_ftp_location": "FTPのURLを入力してください。URLにはサブディレクトリを含めることができますが、「ftp://」といったprefix、またはポート番号は含めないでください。",
 	"schedule.enter_valid_ftp_password": "有効なパスワード を入力してください",
+	"schedule.enter_valid_ftp_port": "ポート番号は数値でなければなりません。",
 	"schedule.enter_valid_ftp_user": "有効なユーザー名を入力してください",
 	"schedule.gmt": "GMT",
 	"schedule.no_end": "終了日未定",
