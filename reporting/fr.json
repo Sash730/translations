@@ -221,7 +221,7 @@
 	"columns.otd-order-value-2.description": "Le statut d’une commande, telle que définie par l’annonceur.",
 	"columns.otd-order-value-2.name": "statut de la commande",
 	"columns.otd-order-value-22.description": "La valeur, fournie par l'annonceur, qui représente son rang en tant que consommateur.",
-	"columns.otd-order-value-22.name": "Customer Score",
+	"columns.otd-order-value-22.name": "Score du client",
 	"columns.otd-order-value-23.description": "Le pays, fourni par l'annonceur, d'où sera expédiée la commande.",
 	"columns.otd-order-value-23.name": "Pays d'expédition",
 	"columns.otd-order-value-5.description": "Le statut attribué par l'annonceur au consommateur pour une commande spécifique. Ceci est basé sur l'historique des commandes du client avec l'annonceur.",
