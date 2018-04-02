@@ -258,7 +258,7 @@
 	"columns.process-week-begin-date.name": "データ送信日（週）始めの日曜日",
 	"columns.process-week-end-date.description": "週別にレポートを出す場合、その週の最後の日付を項目として表示できます",
 	"columns.process-week-end-date.name": "データ送信日（週）最後の土曜日",
-	"columns.process-year-month.description": "エンドユーザーが成果対象行為（購買）を行った日の年月",
+	"columns.process-year-month.description": "広告主様がリンクシェアに成果データを送信した日の年月",
 	"columns.process-year-month.name": "データ送信日（年月）",
 	"columns.process-year.description": "広告主様がリンクシェアに成果データを送信した日の年（GMT）",
 	"columns.process-year.name": "データ送信日（年）",
