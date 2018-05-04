@@ -1,3 +1,4 @@
 {
-  "ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly."
+	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
+	"columns.otd-trans-value-10.description": "La cantidad descontada por el anunciante de un artículo en un pedido."
 }
