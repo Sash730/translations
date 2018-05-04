@@ -1,3 +1,11 @@
 {
-  "ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly."
+	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
+	"columns.otd-order-value-10.description": "Der Betrag, der vom Advertiser für eine Bestellung rabattiert wurde.",
+	"columns.otd-order-value-10.name": "Bestellung-Rabattbetrag",
+	"columns.otd-trans-value-10.description": "Der Betrag, der vom Advertiser für einen Artikel aus einer Bestellung rabattiert wurde.",
+	"columns.otd-trans-value-10.name": "Artikel-Rabattbetrag",
+	"columns.otd-trans-value-11.description": "Einige Advertiser inkludieren Steuern im Verkaufspreis. Der Hinweis zur Steuerbefreiung wird vom Advertiser auf \"Y\" gestellt, um zu kennzeichnen, dass der Artikel steuerbefreit ist. Der Hinweis wird vom Advertiser auf \"N\" gestellt, wenn der Artikel nicht steuerbefreit ist.",
+	"columns.otd-trans-value-11.name": "Steuerfrei",
+	"columns.otd-trans-value-12.description": "Ein Prozentsatz, der die Gewinnspanne für einen Artikel darstellt.",
+	"columns.otd-trans-value-12.name": "Artikel-Gewinnspanne"
 }
