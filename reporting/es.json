@@ -1,3 +1,11 @@
 {
-  "ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly."
+	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
+	"columns.otd-order-value-10.description": "La cantidad descontada por el anunciante por un pedido.",
+	"columns.otd-order-value-10.name": "Cantidad de descuento del pedido",
+	"columns.otd-trans-value-10.description": "La cantidad descontada por el anunciante de un artículo en un pedido.",
+	"columns.otd-trans-value-10.name": "Cantidad de descuento del artículo",
+	"columns.otd-trans-value-11.description": "Algunos anunciantes incluyen impuestos dentro del valor de venta. El anunciante identificará la bandera Exento de impuestos del artículo en 'S', para identificar si el artículo está exento de impuestos. La bandera se establecerá en 'N' por el anunciante si el artículo no está exento de impuestos.",
+	"columns.otd-trans-value-11.name": "Exento de impuestos",
+	"columns.otd-trans-value-12.description": "El porcentaje representando el margen de ganancia para un artículo.",
+	"columns.otd-trans-value-12.name": "Margen de beneficio del artículo"
 }
