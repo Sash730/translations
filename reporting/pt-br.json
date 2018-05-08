@@ -98,7 +98,7 @@
 	"columns.gross-commissions-prior-year.description": "Esta coluna lhe mostra o total de todas as comissões (sem incluir comissões CPC) sem considerar cancelamentos para o ano anterior. É calculado adicionando todas as comissões com valores maiores que 0. ",
 	"columns.gross-commissions-prior-year.name": "Comissões Brutas Ano Anterior",
 	"columns.gross-commissions.description": "Esta coluna mostra o total de comissões (incluindo comissões CPC), sem levar em consideração os cancelamentos. Ele é calculado somando-se todas as comissões com valores superiores a 0.",
-	"columns.gross-commissions.name": "Comissões  Líquidas",
+	"columns.gross-commissions.name": "Comissões Líquidas",
 	"columns.gross-sales-prior-year.description": "Esta coluna lhe dá o total de todas as vendas sem considerar os cancelamentos para o ano anterior. É calculado ao somar todos os valores maiores que 0, mais qualquer venda feita como \"Desconto\".  Observe que Descontos têm valor menor que 0 mas são considerados parte da Vendas Captadase porque eles são levados em conta como parte do total da venda de liquidação no carrinho.",
 	"columns.gross-sales-prior-year.name": "Vendas Captadas Ano Anterior",
 	"columns.gross-sales.description": "Esta coluna lhe mostra o total de todas as vendas sem considerar cancelamentos. É calculado adicionando a soma de todas as vendas maiores que 0, mais qualquer venda feita como \"Descontos\". Note que Descontos tem valor menor que 0 mas é considerado parte das Vendas Captadas pois são levados em consideração como parte do total das vendas na finalização da compra.",
