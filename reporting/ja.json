@@ -47,6 +47,7 @@
 	"columns.categories.Date": "期間",
 	"columns.categories.Geography": "地域情報",
 	"columns.categories.Impressions": "インプレッション",
+	"columns.categories.In-Store Details": "店舗の詳細（日本では利用不可）",
 	"columns.categories.Items": "アイテム",
 	"columns.categories.Metrics": "メトリクス",
 	"columns.categories.Mobile and Technology": "端末情報",
