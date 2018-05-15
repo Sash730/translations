@@ -404,6 +404,7 @@
 	"label.compareOptions.equals": "equals",
 	"label.compareOptions.like": "like",
 	"label.compareOptions.not-like": "not like",
+	"label.convert-to": "Convert to:",
 	"label.filters": "Filters:",
 	"label.hide-summary": "Hide the Summary Panel",
 	"label.inOptions.in": "in",
