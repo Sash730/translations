@@ -371,6 +371,7 @@
 	"label.compareOptions.equals": "Egal a",
 	"label.compareOptions.like": "comme",
 	"label.compareOptions.not-like": "pas comme",
+	"label.convert-to": "Convertir en:",
 	"label.filters": "Filtres:",
 	"label.hide-summary": "Cacher le panneau de navigation",
 	"label.inOptions.in": "dans",
