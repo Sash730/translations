@@ -375,6 +375,7 @@
 	"label.compareOptions.like": "含む",
 	"label.compareOptions.not-like": "含まない",
 	"label.convert-currency-to": "通貨を換算する",
+	"label.convert-to": "に換算する",
 	"label.filters": "フィルター:",
 	"label.hide-summary": "総計を表示しない",
 	"label.inOptions.in": "含む（複数指定）",
