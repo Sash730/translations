@@ -1,6 +1,7 @@
 {
 	"ajax.fail": "レポートを表示できません。時間が経ってから再度お試しください。",
 	"ajax.timeout": "レポートの取得に時間がかかっています。時間をおいてから再度お試しください。",
+	"alert.currency": "このレポート内で提供される換算後の通貨は、各レコードの購買日の為替レートに基づいています。変換された下記の通貨の値はあくまでも参考値であり、正式な値として取り扱わないでください。",
 	"button.apply": "決定",
 	"button.build-a-new-report-from-scratch": "レポートを新規作成する",
 	"button.cancel": "キャンセル",
@@ -354,6 +355,7 @@
 	"columns.weekday.content.Thursday": "木曜日",
 	"columns.weekday.content.Tuesday": "火曜日",
 	"columns.weekday.content.Wednesday": "水曜日",
+	"currency.Do Not Convert": "換算しない",
 	"filterselector.label.add_a_filter": "フィルターの追加",
 	"filterselector.label.choose_one": "選択してください",
 	"filterselector.label.enter_keyword": "キーワードを入力してください",
@@ -372,6 +374,7 @@
 	"label.compareOptions.equals": "等しい",
 	"label.compareOptions.like": "含む",
 	"label.compareOptions.not-like": "含まない",
+	"label.convert-currency-to": "通貨を換算する",
 	"label.filters": "フィルター:",
 	"label.hide-summary": "総計を表示しない",
 	"label.inOptions.in": "含む（複数指定）",

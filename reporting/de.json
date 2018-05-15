@@ -1,5 +1,6 @@
 {
 	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
+	"alert.currency": "Die in diesem Bericht konvertierten Währungen basieren auf den Wechselkursen für jedes Transaktionsdatum.Die unten angegebenen konvertierten Werte dienen nur als Richtlinie und sollten nicht für Transaktionszwecke verwendet werden.",
 	"columns.categories.In-Store Details": "Auf-Lager-Details",
 	"columns.otd-order-value-10.description": "Der Betrag, der vom Advertiser für eine Bestellung rabattiert wurde.",
 	"columns.otd-order-value-10.name": "Bestellung-Rabattbetrag",
@@ -22,5 +23,8 @@
 	"columns.otd-trans-value-11.description": "Einige Advertiser inkludieren Steuern im Verkaufspreis. Der Hinweis zur Steuerbefreiung wird vom Advertiser auf \"Y\" gestellt, um zu kennzeichnen, dass der Artikel steuerbefreit ist. Der Hinweis wird vom Advertiser auf \"N\" gestellt, wenn der Artikel nicht steuerbefreit ist.",
 	"columns.otd-trans-value-11.name": "Steuerfrei",
 	"columns.otd-trans-value-12.description": "Ein Prozentsatz, der die Gewinnspanne für einen Artikel darstellt.",
-	"columns.otd-trans-value-12.name": "Artikel-Gewinnspanne"
+	"columns.otd-trans-value-12.name": "Artikel-Gewinnspanne",
+	"currency.Do Not Convert": "Nicht umwandeln",
+	"label.convert-currency-to": "Währung umwandeln in ...",
+	"label.convert-to": "Umwandeln in:"
 }
