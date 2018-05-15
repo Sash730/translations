@@ -1,5 +1,6 @@
 {
 	"ajax.fail": "Sorry, we are currently unable to process this request. Please check back shortly.",
+	"alert.currency": "La conversión de divisas en este informe se basan en las tasas de cambio para cada fecha de transacción. Los valores convertidos que se proporcionan a continuación son solo un guía y no deben utilizarse para fines transaccionales.",
 	"columns.categories.In-Store Details": "Detalles sobre la tienda",
 	"columns.otd-order-value-10.description": "La cantidad descontada por el anunciante por un pedido.",
 	"columns.otd-order-value-10.name": "Cantidad de descuento del pedido",
@@ -20,5 +21,8 @@
 	"columns.otd-trans-value-11.description": "Algunos anunciantes incluyen impuestos dentro del valor de venta. El anunciante identificará la bandera Exento de impuestos del artículo en 'S', para identificar si el artículo está exento de impuestos. La bandera se establecerá en 'N' por el anunciante si el artículo no está exento de impuestos.",
 	"columns.otd-trans-value-11.name": "Exento de impuestos",
 	"columns.otd-trans-value-12.description": "El porcentaje representando el margen de ganancia para un artículo.",
-	"columns.otd-trans-value-12.name": "Margen de beneficio del artículo"
+	"columns.otd-trans-value-12.name": "Margen de beneficio del artículo",
+	"currency.Do Not Convert": "No convertir",
+	"label.convert-currency-to": "Convertir divisas a...",
+	"label.convert-to": "Convertir a:"
 }
